@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.16.88
-! Last modified: 2025-06-18T14:52:44.159Z
+! Version: 1.0.16.90
+! Last modified: 2025-06-22T06:10:19.838Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -997,6 +997,7 @@
 0.0.0.0 freebase.hu
 0.0.0.0 freeblog.biz
 0.0.0.0 freecities.com
+0.0.0.0 freecyberzone.com
 0.0.0.0 freeforums.net
 0.0.0.0 freeforums.org
 0.0.0.0 freehomepage.com
@@ -1610,6 +1611,7 @@
 0.0.0.0 pro.vg
 0.0.0.0 pro3.de
 0.0.0.0 proboards.com
+0.0.0.0 prodepl.top
 0.0.0.0 profis.info
 0.0.0.0 profreehost.com
 0.0.0.0 proginfortrad.top

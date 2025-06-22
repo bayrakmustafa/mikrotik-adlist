@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.10
-! Last modified: 2025-06-18T14:52:33.374Z
+! Version: 1.0.15.11
+! Last modified: 2025-06-22T06:10:10.335Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1terms.com
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -311,6 +311,7 @@
 0.0.0.0 cdn-scripts.signifyd.com
 0.0.0.0 cdn.dep-x.com
 0.0.0.0 cdn.id5-sync.com
+0.0.0.0 cdn.lrkt-in.com
 0.0.0.0 cdn.pushmaster-cdn.xyz
 0.0.0.0 cdn.relevant-digital.com
 0.0.0.0 cdn.stat-track.com
@@ -674,6 +675,7 @@
 0.0.0.0 pp.lp4.io
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 privalytic.com
 0.0.0.0 protagcdn.com
 0.0.0.0 proxyas.com
 0.0.0.0 pubads.g.doubleclick.net
@@ -791,6 +793,7 @@
 0.0.0.0 sprinklecontent.com
 0.0.0.0 sprinkletxt.com
 0.0.0.0 sp-eu.dev.polarbyte.com
+0.0.0.0 sr-client-cfg.eu.amplitude.com
 0.0.0.0 ssl.webserviceaward.com
 0.0.0.0 ssp.api.tappx.com
 0.0.0.0 ssp-nj.webtradehub.com
