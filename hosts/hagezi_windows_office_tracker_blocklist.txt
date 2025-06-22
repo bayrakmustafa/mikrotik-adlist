@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.55
-! Last modified: 2025-06-18T14:52:32.201Z
+! Version: 1.0.0.56
+! Last modified: 2025-06-22T06:10:09.446Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -304,6 +304,7 @@
 0.0.0.0 c.za.msn.com
 0.0.0.0 zmetrics.msn.com
 0.0.0.0 diagnostics.office.com
+0.0.0.0 diagnostics-eudb.office.com
 0.0.0.0 measure.office.com
 0.0.0.0 measure.office.net
 0.0.0.0 ads-msn-com-profile.trafficmanager.net

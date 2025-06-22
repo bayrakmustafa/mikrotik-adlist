@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.18.22
-! Last modified: 2025-06-18T14:52:43.638Z
+! Version: 1.0.18.27
+! Last modified: 2025-06-22T06:10:19.475Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -411,9 +411,9 @@
 0.0.0.0 zxcprogs.shop
 0.0.0.0 fusionhacks.cc
 0.0.0.0 phantomcorestudios.net
-0.0.0.0 aimshare.pro
-0.0.0.0 downloadsuite.pro
 0.0.0.0 dropcheats.net
+0.0.0.0 1wdrop5.com
+0.0.0.0 mysoft.rest
 0.0.0.0 cloud-pack.org
 0.0.0.0 cloud-deployments.org
 0.0.0.0 tech-cloud.org
@@ -511,6 +511,10 @@
 0.0.0.0 up-community.wiki
 0.0.0.0 upcommunity.net
 0.0.0.0 bicfic.net
+0.0.0.0 kaleempc.info
+0.0.0.0 serialsoft.org
+0.0.0.0 getprocrack.net
+0.0.0.0 pchax.pro
 0.0.0.0 scane.click
 0.0.0.0 crackingpatching.com
 0.0.0.0 patchedfiles.com
@@ -533,6 +537,12 @@
 0.0.0.0 host9.link
 0.0.0.0 zeroupload.info
 0.0.0.0 sonvupload.xyz
+0.0.0.0 stupdownloadf.com
+0.0.0.0 hostingfile.live
+0.0.0.0 linkofile.click
+0.0.0.0 modesoft.org
+0.0.0.0 securefilelink.info
+0.0.0.0 mariads.cfd
 0.0.0.0 theannoyingsite.com
 0.0.0.0 smartklick.biz
 0.0.0.0 sale24-pills.com
@@ -3081,3 +3091,4 @@
 0.0.0.0 win32diskimager.org
 0.0.0.0 figa.beauty
 0.0.0.0 lonely.beauty
+0.0.0.0 havelbeenpwnd.com

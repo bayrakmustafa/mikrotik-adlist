@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
-! Version: 1.0.18.43
-! Last modified: 2025-06-18T14:52:43.820Z
+! Version: 1.0.18.53
+! Last modified: 2025-06-22T06:10:19.614Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -10,6 +10,7 @@
 0.0.0.0 dns.0x55.net
 0.0.0.0 1010000.online
 0.0.0.0 108023.xyz
+0.0.0.0 arevmadethis.120v.ac
 0.0.0.0 123-proxy.net
 0.0.0.0 123-proxy.org
 0.0.0.0 123000123.xyz
@@ -116,6 +117,8 @@
 0.0.0.0 family.5ososea.com
 0.0.0.0 kids.5ososea.com
 0.0.0.0 dns.688447.xyz
+0.0.0.0 blacknig-ger.69.mu
+0.0.0.0 chickenzestyhawktuahbigblacknigfattass.69.mu
 0.0.0.0 i-ready.69.mu
 0.0.0.0 71745718.online
 0.0.0.0 7713.info
@@ -287,6 +290,7 @@
 0.0.0.0 anonypost.com
 0.0.0.0 anonyproxy.biz
 0.0.0.0 anonysurf.com
+0.0.0.0 know.core.antidemon.com
 0.0.0.0 antpeak.com
 0.0.0.0 antycenzor.pl
 0.0.0.0 secure.anudeep.me
@@ -629,6 +633,7 @@
 0.0.0.0 dns.chenu.ch
 0.0.0.0 gooberman123.com.chickenkiller.com
 0.0.0.0 ilikefeet.chickenkiller.com
+0.0.0.0 jordanmadethis.chickenkiller.com
 0.0.0.0 freedns.kiuo-utopias.chickenkiller.com
 0.0.0.0 mathhomeworkplus.chickenkiller.com
 0.0.0.0 mathiseasy.chickenkiller.com
@@ -876,6 +881,7 @@
 0.0.0.0 logisticsacademy.logistica.com.mx
 0.0.0.0 encryption.madereramilano.com.ar
 0.0.0.0 manaututors.manausclass.com.br
+0.0.0.0 grid.brain.marcenes.com.br
 0.0.0.0 packetyo.nanbang.com.tr
 0.0.0.0 dns.netraptor.com.au
 0.0.0.0 new-proxy.com.de
@@ -1341,7 +1347,6 @@
 0.0.0.0 educationdean.us
 0.0.0.0 adguard.ef67daisuki.club
 0.0.0.0 tor.eff.org
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 scifi0.eigenlicht.us
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 elearning.electronicajck.com
@@ -1492,8 +1497,8 @@
 0.0.0.0 firstcontact.site
 0.0.0.0 fishproxy.com
 0.0.0.0 fitnessdepotprices.com
+0.0.0.0 chart.books.fivepals.com
 0.0.0.0 fixproxy.com
-0.0.0.0 dns.fizz.studio
 0.0.0.0 gothgirlsareawesome.flamex.hm
 0.0.0.0 flarquix.xyz
 0.0.0.0 flashpull.com
@@ -1743,6 +1748,7 @@
 0.0.0.0 fisdinstructure.gotroot.pw
 0.0.0.0 gotrusted.com
 0.0.0.0 fractioncaculator.govt.hu
+0.0.0.0 gowork.info
 0.0.0.0 gpreport.us
 0.0.0.0 gracarno.com
 0.0.0.0 doge.gracyjohns.cl
@@ -2164,6 +2170,7 @@
 0.0.0.0 judua3rtinpst0s.xyz
 0.0.0.0 abcya.jumpingcrab.com
 0.0.0.0 cmms.jumpingcrab.com
+0.0.0.0 everyonewantstocrackshawnp.jumpingcrab.com
 0.0.0.0 mathissofun.jumpingcrab.com
 0.0.0.0 study-history.jumpingcrab.com
 0.0.0.0 ups.jumpingcrab.com
@@ -2786,6 +2793,7 @@
 0.0.0.0 novatech.fun
 0.0.0.0 dns.novg.net
 0.0.0.0 nice.noviolencia.ar
+0.0.0.0 poiuytrewq.novipro.ca
 0.0.0.0 nowcache.com
 0.0.0.0 noyourmean.xyz
 0.0.0.0 dns.npe.bz
@@ -2942,6 +2950,7 @@
 0.0.0.0 this.is.for.lightspeedpal.ostrovsky.sk
 0.0.0.0 thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
 0.0.0.0 dns.oszx.co
+0.0.0.0 interstellar.otil.cl
 0.0.0.0 topic.idea.ottosulbmec.com
 0.0.0.0 ourproxy.net
 0.0.0.0 dns.ours.luxe
@@ -3104,7 +3113,6 @@
 0.0.0.0 ixl.potomacriversafetycommittee.org
 0.0.0.0 doh.powerdns.org
 0.0.0.0 poxy.pl
-0.0.0.0 dns.aeiou.pp.ua
 0.0.0.0 dns.ha-dvin.pp.ua
 0.0.0.0 dns.korzhyk.pp.ua
 0.0.0.0 lindung.pp.ua
@@ -3785,8 +3793,6 @@
 0.0.0.0 browse.startpage.com
 0.0.0.0 eu-browse.startpage.com
 0.0.0.0 eu2-browse.startpage.com
-0.0.0.0 proxy1.startpage.com
-0.0.0.0 proxy2.startpage.com
 0.0.0.0 proxy3.startpage.com
 0.0.0.0 s4-us2.startpage.com
 0.0.0.0 us1-browse.startpage.com
@@ -3887,6 +3893,7 @@
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
 0.0.0.0 poptee-liawheufhwae-awef.swanndvr.net
+0.0.0.0 popteeeee-lkshfeakwueh-ew.swanndvr.net
 0.0.0.0 ramm-ume-pro.swanndvr.net
 0.0.0.0 rammerhead-10.swanndvr.net
 0.0.0.0 swapip.com
@@ -4132,6 +4139,7 @@
 0.0.0.0 tvone.info
 0.0.0.0 dmvontop.twilightparadox.com
 0.0.0.0 rylandmadethisjustkidding.twilightparadox.com
+0.0.0.0 schoology2.twilightparadox.com
 0.0.0.0 spacetechnology.twilightparadox.com
 0.0.0.0 twingate.com
 0.0.0.0 twinklestarknights.com
@@ -4437,6 +4445,7 @@
 0.0.0.0 vipuserpro.vercel.app
 0.0.0.0 vipusersxero.vercel.app
 0.0.0.0 zyronirbinter.vercel.app
+0.0.0.0 gov.skills.veriler.com
 0.0.0.0 veripn.com
 0.0.0.0 viatun.com
 0.0.0.0 videocollage.us

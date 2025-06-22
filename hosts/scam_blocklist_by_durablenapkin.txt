@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.43
-! Last modified: 2025-06-18T14:52:37.684Z
+! Version: 1.0.17.46
+! Last modified: 2025-06-22T06:10:14.137Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 1bmo-reactivemyaccount0.com
@@ -47,7 +47,6 @@
 0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
-0.0.0.0 akjamv.shop
 0.0.0.0 akulaku.me
 0.0.0.0 aldofashion.com
 0.0.0.0 alindflepkaty14.pages.dev
@@ -71,14 +70,12 @@
 0.0.0.0 app.uniwspapp.com
 0.0.0.0 appbipa.com
 0.0.0.0 appdrive.info
-0.0.0.0 apsehick.date
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 arnoldgloverruss58.myshopify.com
 0.0.0.0 artdecorhome.store
 0.0.0.0 arthoodie.com
 0.0.0.0 arvetellefsen.no
-0.0.0.0 assassinfitness.com
 0.0.0.0 astronomyfitmisguided.com
 0.0.0.0 asvbaen.info
 0.0.0.0 atlaspvs.com
@@ -106,6 +103,7 @@
 0.0.0.0 balticpipe.wordpress.com
 0.0.0.0 bantucepat.com
 0.0.0.0 bcb.game
+0.0.0.0 beacon.apsehick.date
 0.0.0.0 beautysolution24.com
 0.0.0.0 beeaar.com
 0.0.0.0 beecrave.com
@@ -244,7 +242,6 @@
 0.0.0.0 daradis.com
 0.0.0.0 dash.pocketuniverse.app
 0.0.0.0 dashracegear.net
-0.0.0.0 dat-ing.site
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
 0.0.0.0 dbkdsale.com
@@ -308,7 +305,6 @@
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
 0.0.0.0 ellezz.com
-0.0.0.0 elonmix.org
 0.0.0.0 elonweb.org
 0.0.0.0 elrifeno.com
 0.0.0.0 emberio.com
@@ -459,7 +455,6 @@
 0.0.0.0 happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 headsets4business.co.uk
-0.0.0.0 help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 helpnanacenter.helpscoutdocs.com
@@ -482,7 +477,6 @@
 0.0.0.0 hotmod.eu
 0.0.0.0 houselar.com.br
 0.0.0.0 howgr.buzz
-0.0.0.0 hqnew.info
 0.0.0.0 hsuitehub.com
 0.0.0.0 hubfiles.ws
 0.0.0.0 hudson-bay.com
@@ -552,7 +546,6 @@
 0.0.0.0 januashop.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
-0.0.0.0 jne-express.my.id
 0.0.0.0 jonausa.com
 0.0.0.0 jourl.live
 0.0.0.0 jsdimmigration.com
@@ -611,7 +604,6 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucchesedeal.store
 0.0.0.0 luccheseoutlet.online
-0.0.0.0 lucchesesale.shop
 0.0.0.0 lucysstyle.com
 0.0.0.0 lumustore.top
 0.0.0.0 luxsgear.com
@@ -656,7 +648,6 @@
 0.0.0.0 msl-cf.id
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
-0.0.0.0 mulllvad.org
 0.0.0.0 mullvaad.net
 0.0.0.0 museuw.com
 0.0.0.0 musk-project.com
@@ -668,7 +659,6 @@
 0.0.0.0 mypuregaming.com
 0.0.0.0 mystitich4u.com
 0.0.0.0 mysuperdatingforyou.life
-0.0.0.0 n24-news.com
 0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 namewrimo.info
@@ -709,6 +699,7 @@
 0.0.0.0 navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi44.com
+0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi5.com
@@ -722,7 +713,6 @@
 0.0.0.0 navi63.ru
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
-0.0.0.0 navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 navi71.com
 0.0.0.0 navi72.com
@@ -739,7 +729,6 @@
 0.0.0.0 navi88.com
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
-0.0.0.0 navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
@@ -772,7 +761,6 @@
 0.0.0.0 nip44.com
 0.0.0.0 nip5.com
 0.0.0.0 nip57.com
-0.0.0.0 nip89.com
 0.0.0.0 nirvezal.com
 0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
@@ -849,7 +837,6 @@
 0.0.0.0 pipopi.com
 0.0.0.0 piratedrive.com
 0.0.0.0 pjs.outlet.com
-0.0.0.0 pl-vider.pl
 0.0.0.0 pl.vider-info.pl
 0.0.0.0 pl.wojewodapodlaski.pl
 0.0.0.0 platform.crypto1capital-trade.com
@@ -863,6 +850,7 @@
 0.0.0.0 post-nachsenden.de
 0.0.0.0 powerboostup.com
 0.0.0.0 prawdziwefilmy.pl
+0.0.0.0 premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
 0.0.0.0 presale-friday.info
@@ -996,6 +984,7 @@
 0.0.0.0 stearncommunjty.net
 0.0.0.0 stellara.de
 0.0.0.0 stellasummer.com
+0.0.0.0 stiloautoparts.online
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 store-aleteia.org
 0.0.0.0 store-swatch.com
@@ -1005,10 +994,10 @@
 0.0.0.0 storecollegeonline.com
 0.0.0.0 storeskiwear.com
 0.0.0.0 storesp.com
+0.0.0.0 streamboo.com
 0.0.0.0 streamvod.pl
 0.0.0.0 strefa-filmu.pl
 0.0.0.0 strefaogladania.pl
-0.0.0.0 stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 subsequentoven.info
 0.0.0.0 successglossary.com
@@ -1040,6 +1029,7 @@
 0.0.0.0 teslafond.io
 0.0.0.0 teslamaked.com
 0.0.0.0 the-north-face.gr
+0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
 0.0.0.0 thegeekgifts.com
 0.0.0.0 thehappywood.com
@@ -1227,6 +1217,7 @@
 0.0.0.0 vindhuisdieren.com
 0.0.0.0 vinisay.com
 0.0.0.0 vip100.cc
+0.0.0.0 vipdeit.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 virustoal.com
 0.0.0.0 visa-to-india.com
@@ -1275,6 +1266,7 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com

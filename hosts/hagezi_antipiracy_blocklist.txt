@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.17.68
-! Last modified: 2025-06-18T14:52:30.110Z
+! Version: 1.0.17.74
+! Last modified: 2025-06-22T06:10:07.723Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0123456789nonexistent.com
 0.0.0.0 0123movie.net
@@ -186,6 +186,7 @@
 0.0.0.0 1techno.org
 0.0.0.0 1trance.org
 0.0.0.0 1watch-free.cc
+0.0.0.0 1watch-free.me
 0.0.0.0 1xstream.com
 0.0.0.0 20links.com
 0.0.0.0 22-hd.com
@@ -400,6 +401,7 @@
 0.0.0.0 bt.acg.gg
 0.0.0.0 tracker.acg.gg
 0.0.0.0 acgnx.se
+0.0.0.0 acgnxtracker.com
 0.0.0.0 acgsou.com
 0.0.0.0 open.acgtracker.com
 0.0.0.0 acid-play.com
@@ -501,6 +503,7 @@
 0.0.0.0 alloflix.com
 0.0.0.0 allofmp3.com
 0.0.0.0 allostreaming.com
+0.0.0.0 allotracker.com
 0.0.0.0 allpcworld.com
 0.0.0.0 allprivatebabes.com
 0.0.0.0 allseek.info
@@ -563,6 +566,7 @@
 0.0.0.0 altadefinizione.fm
 0.0.0.0 altadefinizione.forsale
 0.0.0.0 altadefinizione.futbol
+0.0.0.0 altadefinizione.golf
 0.0.0.0 altadefinizione.group
 0.0.0.0 altadefinizione.haus
 0.0.0.0 altadefinizione.icu
@@ -684,6 +688,7 @@
 0.0.0.0 androidp1.com
 0.0.0.0 androidrookies.com
 0.0.0.0 andropalace.org
+0.0.0.0 ani-tsuzuki.net
 0.0.0.0 anicloud.domains
 0.0.0.0 anicloud.io
 0.0.0.0 anidb.info
@@ -1136,6 +1141,7 @@
 0.0.0.0 bdiptv.net
 0.0.0.0 bdiptv.stream
 0.0.0.0 bdix.org
+0.0.0.0 bdixbd.com
 0.0.0.0 bdixftp.com
 0.0.0.0 bdixlive.com
 0.0.0.0 bdixmedia.com
@@ -2035,6 +2041,7 @@
 0.0.0.0 kloud.com.bd
 0.0.0.0 moddroid.com.co
 0.0.0.0 movies-watch.com.pk
+0.0.0.0 multicanais.com.br
 0.0.0.0 nagordola.com.bd
 0.0.0.0 www.nartlof.com.br
 0.0.0.0 netpoint.com.bd
@@ -2463,11 +2470,16 @@
 0.0.0.0 bn.dfnbd.net
 0.0.0.0 cm.dfnbd.net
 0.0.0.0 em.dfnbd.net
+0.0.0.0 srl.dfnbd.net
 0.0.0.0 tube.dfnbd.net
 0.0.0.0 tv.dfnbd.net
 0.0.0.0 dfox.it
 0.0.0.0 mixes.dfx.at
+0.0.0.0 tr-rh-zhuqiy.dgj055.icu
+0.0.0.0 tr-zhuqiy-1.dgj055.icu
+0.0.0.0 tr-zhuqiy-2.dgj055.icu
 0.0.0.0 tracker-zhuqiy.dgj055.icu
+0.0.0.0 trl-zhuqiy.dgj055.icu
 0.0.0.0 tracker.zhuqiy.dgj055.icu
 0.0.0.0 dhakaftp.com
 0.0.0.0 dhakaiptv.com
@@ -2712,6 +2724,7 @@
 0.0.0.0 tracker.ducks.party
 0.0.0.0 duckwad.net
 0.0.0.0 dudestream.com
+0.0.0.0 dummipedia.org
 0.0.0.0 tracker.dump.cl
 0.0.0.0 dunia21.app
 0.0.0.0 dunia21.bid
@@ -3174,6 +3187,7 @@
 0.0.0.0 fiberlink.eu
 0.0.0.0 fiberstresser.com
 0.0.0.0 fiberx.me
+0.0.0.0 fidigger.com
 0.0.0.0 file.al
 0.0.0.0 file.lu
 0.0.0.0 file.lv
@@ -4150,6 +4164,7 @@
 0.0.0.0 haitou.org
 0.0.0.0 hakuneko.download
 0.0.0.0 hakwara.com
+0.0.0.0 tracker.halfchub.club
 0.0.0.0 halum.net
 0.0.0.0 torrent-tracker.hama3.net
 0.0.0.0 tracker.hama3.net
@@ -4320,7 +4335,6 @@
 0.0.0.0 torrents.hikarinokiseki.com
 0.0.0.0 hikaritv.xyz
 0.0.0.0 himovies.sx
-0.0.0.0 himovies.to
 0.0.0.0 himovies.tv
 0.0.0.0 hindilinks4u.io
 0.0.0.0 hindilinks4u.to
@@ -5705,6 +5719,7 @@
 0.0.0.0 movieroom.is
 0.0.0.0 movierot.com
 0.0.0.0 movierr.online
+0.0.0.0 movierr.site
 0.0.0.0 movierulzhd.gold
 0.0.0.0 movies.cab
 0.0.0.0 movies-d.com
@@ -5852,6 +5867,7 @@
 0.0.0.0 muchshare.net
 0.0.0.0 muhammadniaz.net
 0.0.0.0 multi-torrent.ru
+0.0.0.0 multiapkclub.com
 0.0.0.0 multicanais.cl
 0.0.0.0 multicanais.com
 0.0.0.0 multicanais.fans
@@ -6000,6 +6016,7 @@
 0.0.0.0 kpgtorrent.neocities.org
 0.0.0.0 nepu.to
 0.0.0.0 nerealus.lt
+0.0.0.0 download.nerocloud.me
 0.0.0.0 fcpic.nesbbs.com
 0.0.0.0 nesfiles.com
 0.0.0.0 cnc.net.bd
@@ -6123,6 +6140,7 @@
 0.0.0.0 h4.trakx.nibba.trade
 0.0.0.0 nicemoviezion.pro
 0.0.0.0 nicoblog.org
+0.0.0.0 nightmarestresser.com
 0.0.0.0 niktu.com
 0.0.0.0 nima4k.org
 0.0.0.0 nineoneone.nl
@@ -6271,6 +6289,7 @@
 0.0.0.0 tracker.nyaa.uk
 0.0.0.0 nyaatorrents.info
 0.0.0.0 nyaatorrents.org
+0.0.0.0 t.nyaatracker.com
 0.0.0.0 tr.nyacat.pw
 0.0.0.0 nyafilmer.lol
 0.0.0.0 nyafilmer.vip
@@ -6444,6 +6463,7 @@
 0.0.0.0 sport-video.org.ua
 0.0.0.0 tracker.swateam.org.uk
 0.0.0.0 torrent.org.cn
+0.0.0.0 tvunderground.org.ru
 0.0.0.0 vega.org.uk
 0.0.0.0 orion.si
 0.0.0.0 orionoid.com
@@ -7233,6 +7253,7 @@
 0.0.0.0 rexdl.com
 0.0.0.0 rezi.one
 0.0.0.0 rezka.ag
+0.0.0.0 rf.ws
 0.0.0.0 ezis-amarftp.rf.gd
 0.0.0.0 store.rg-adguard.net
 0.0.0.0 rg-mechanics.club
@@ -7631,13 +7652,13 @@
 0.0.0.0 simpsonai.tv
 0.0.0.0 simpsonitos.com
 0.0.0.0 simpsonsua.tv
-0.0.0.0 sindresorhus.com
 0.0.0.0 sinister.ly
 0.0.0.0 sisbdisp.com
 0.0.0.0 wawacity2.site-de-streaming.com
 0.0.0.0 sitelike.org
 0.0.0.0 sitenable.info
 0.0.0.0 siteunblocked.info
+0.0.0.0 sitosenzanome.it
 0.0.0.0 sitostreaming.com
 0.0.0.0 sittingonclouds.net
 0.0.0.0 sjcrack.com
@@ -7899,6 +7920,7 @@
 0.0.0.0 107.189.10.20.sslip.io
 0.0.0.0 ssonlinebd.com
 0.0.0.0 ssrmovies.com
+0.0.0.0 ssrmovies.meme
 0.0.0.0 ssrmovies.win
 0.0.0.0 sssinsta.com
 0.0.0.0 sssinstagram.com
@@ -8134,7 +8156,6 @@
 0.0.0.0 strumyk.tv
 0.0.0.0 stuckgamer.com
 0.0.0.0 studentsharez.com
-0.0.0.0 studyflix.de
 0.0.0.0 su-data.com
 0.0.0.0 warez.sub-france.com
 0.0.0.0 subsplease.org
@@ -8451,7 +8472,6 @@
 0.0.0.0 thepiratebay10.org
 0.0.0.0 thepiratebay11.org
 0.0.0.0 thepiratebay2.to
-0.0.0.0 thepiratebay3.org
 0.0.0.0 thepiratebay3.to
 0.0.0.0 thepiratebay9.info
 0.0.0.0 thepiratebay9.net
@@ -8824,6 +8844,7 @@
 0.0.0.0 torrentspy.com
 0.0.0.0 torrentsrus.com
 0.0.0.0 alpha.torrenttracker.nl
+0.0.0.0 torrentturk.com
 0.0.0.0 torrenttyphoon.com
 0.0.0.0 torrentube.net
 0.0.0.0 torrenturkey.com
