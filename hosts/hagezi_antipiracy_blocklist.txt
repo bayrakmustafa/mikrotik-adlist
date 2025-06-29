@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.17.85
-! Last modified: 2025-06-29T06:10:07.719Z
+! Version: 1.0.17.86
+! Last modified: 2025-06-29T08:57:50.725Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0123456789nonexistent.com
 0.0.0.0 0123movie.net
@@ -5546,7 +5546,6 @@
 0.0.0.0 movie2k.to
 0.0.0.0 movie2kproxy.com
 0.0.0.0 movie4k.ag
-0.0.0.0 movie4k.is
 0.0.0.0 movie4k.org
 0.0.0.0 movie4k.sx
 0.0.0.0 movie4k.to
@@ -5566,7 +5565,6 @@
 0.0.0.0 moviee.tv
 0.0.0.0 moviefiles.org
 0.0.0.0 movieforfree.co
-0.0.0.0 moviefreak.xyz
 0.0.0.0 moviegaga.to
 0.0.0.0 moviegamesmore.net
 0.0.0.0 movieglide.com
@@ -5657,7 +5655,6 @@
 0.0.0.0 movieszone.org
 0.0.0.0 movietly.com
 0.0.0.0 movietorrent.co
-0.0.0.0 movietown.org
 0.0.0.0 movieuniverse.li
 0.0.0.0 movieuniverse.se
 0.0.0.0 movieunlimited.net
@@ -5725,7 +5722,6 @@
 0.0.0.0 mrunblock.pro
 0.0.0.0 ettv.mrunblock.bar
 0.0.0.0 losmovies.mrunblock.casa
-0.0.0.0 torrentdownloads.mrunblock.xyz
 0.0.0.0 mrunlock.space
 0.0.0.0 mscracks.com
 0.0.0.0 mserver.link
@@ -5760,7 +5756,6 @@
 0.0.0.0 musicsaz.com
 0.0.0.0 musicstream.cc
 0.0.0.0 mutaz.pro
-0.0.0.0 mutstreams.com
 0.0.0.0 muxiv.com
 0.0.0.0 mvgroup.org
 0.0.0.0 mxroom.com
@@ -5994,7 +5989,6 @@
 0.0.0.0 nfohump.com
 0.0.0.0 nfomation.net
 0.0.0.0 nfonews.com
-0.0.0.0 nfoogle.com
 0.0.0.0 bt.nfshost.com
 0.0.0.0 ng4you.com
 0.0.0.0 ngb.to
@@ -6128,7 +6122,6 @@
 0.0.0.0 nullclash.org
 0.0.0.0 nulleb.com
 0.0.0.0 nulled.cx
-0.0.0.0 nulled.to
 0.0.0.0 nulled-scripts.cc
 0.0.0.0 nulledbuilds.com
 0.0.0.0 nulledfree.pw
@@ -6219,7 +6212,6 @@
 0.0.0.0 oklivetv.com
 0.0.0.0 bt.okmp3.ru
 0.0.0.0 ol-am.top
-0.0.0.0 olamovies.autos
 0.0.0.0 olamovies.download
 0.0.0.0 olamovies.hair
 0.0.0.0 olamovies.shop
@@ -6241,7 +6233,6 @@
 0.0.0.0 omgtorrent.cz
 0.0.0.0 omgtorrent.me
 0.0.0.0 omgwtfnzbs.me
-0.0.0.0 retracker.omsk.ru
 0.0.0.0 ddn.oncast.me
 0.0.0.0 onceddl.net
 0.0.0.0 onebigtorrent.org

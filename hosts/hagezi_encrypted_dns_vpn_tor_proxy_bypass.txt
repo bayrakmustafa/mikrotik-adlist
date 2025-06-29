@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
-! Version: 1.0.18.77
-! Last modified: 2025-06-29T06:10:17.617Z
+! Version: 1.0.18.78
+! Last modified: 2025-06-29T08:58:00.520Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1331,6 +1331,7 @@
 0.0.0.0 educationdean.us
 0.0.0.0 adguard.ef67daisuki.club
 0.0.0.0 tor.eff.org
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 scifi0.eigenlicht.us
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 elearning.electronicajck.com
@@ -2424,7 +2425,6 @@
 0.0.0.0 adguard.meddy94.de
 0.0.0.0 mediahint.com
 0.0.0.0 mediavpn.com
-0.0.0.0 web0213.medscience.cl
 0.0.0.0 dns.meeo.win
 0.0.0.0 gomkey.meexpress.net
 0.0.0.0 testguard.meexx.de
@@ -2495,7 +2495,6 @@
 0.0.0.0 sage.area.modeemi.net
 0.0.0.0 ps1.modr.club
 0.0.0.0 edu.moldeo.org
-0.0.0.0 history-of-earth.moldeo.org
 0.0.0.0 only-shooting-stars-breakthe.moldeo.org
 0.0.0.0 dns.molinero.dev
 0.0.0.0 naganohara-yoimiya.momokko.moe
@@ -2527,7 +2526,6 @@
 0.0.0.0 lab.proof.multi.hk
 0.0.0.0 blockerads.multimediaconcept.fr
 0.0.0.0 in.multiverse.college
-0.0.0.0 use.muna.com
 0.0.0.0 dns.murgi.de
 0.0.0.0 this-is-for-wave-bru.music-menges.si
 0.0.0.0 sci.brain.musictherapyinscotland.com
@@ -2569,7 +2567,6 @@
 0.0.0.0 myip.io
 0.0.0.0 myip-proxy.info
 0.0.0.0 myiphide.com
-0.0.0.0 igottridentrodinfischtrust.myjamesonline.net
 0.0.0.0 sites.scholar.academic.mylogisoft.com
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 portmapper.myonlineportal.net
@@ -2662,15 +2659,12 @@
 0.0.0.0 ns.net.kg
 0.0.0.0 dog.vpn.net.br
 0.0.0.0 netaltr.com
-0.0.0.0 mapper.netinfotechnology.com
 0.0.0.0 unblocker.netlify.app
 0.0.0.0 netnut.io
 0.0.0.0 netscop.net
 0.0.0.0 netsneak.com
 0.0.0.0 netvpn.us
 0.0.0.0 dns.netvpn.net
-0.0.0.0 free.vbucks.generator.networkindia.com
-0.0.0.0 free.robux.networkindia.com
 0.0.0.0 kywantsmyautographonfood.networkoutpost.com
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
-! Version: 1.0.22.6
-! Last modified: 2025-06-29T06:10:11.150Z
+! Version: 1.0.22.7
+! Last modified: 2025-06-29T08:57:54.031Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 *-ad-sign.byteimg.com
 0.0.0.0 *-ad.a.yximgs.com
@@ -2078,6 +2078,7 @@
 0.0.0.0 8vwxqg.tapin.gg
 0.0.0.0 8wozkl2r32jb.mitarbeiter-schmiede.de
 0.0.0.0 8wtkfxiss1o2.com
+0.0.0.0 8x3wolchw.com
 0.0.0.0 8xly.cn
 0.0.0.0 8xtm6i.cn
 0.0.0.0 8y3j.cn
@@ -18213,6 +18214,7 @@
 0.0.0.0 bozhou666.com
 0.0.0.0 bp.mlb.com
 0.0.0.0 bp4apps.horus.biz
+0.0.0.0 bpabmyodbtav.com
 0.0.0.0 bpaqalnke.com
 0.0.0.0 bpaqzithab.com
 0.0.0.0 bparcizapowm.com
@@ -24840,6 +24842,7 @@
 0.0.0.0 cpd.dignityhealth.org
 0.0.0.0 cpfpkiqefmhig.com
 0.0.0.0 cpfqsubp.com
+0.0.0.0 cpfqxjtl.com
 0.0.0.0 cpghsl.renoveru.jp
 0.0.0.0 cpgjmp.wideshop.pl
 0.0.0.0 cpglqg.icu
@@ -26622,6 +26625,7 @@
 0.0.0.0 dappfr.emp-online.ch
 0.0.0.0 daradis.com
 0.0.0.0 darakht.com
+0.0.0.0 darcieydent.top
 0.0.0.0 darcyjellynobles.com
 0.0.0.0 dardzeglhpsqv.tech
 0.0.0.0 daredjadedormitory.com
@@ -30780,6 +30784,7 @@
 0.0.0.0 def41eaf93.1177651727.com
 0.0.0.0 defabc.black-label-coffee.de
 0.0.0.0 defandoar.xyz
+0.0.0.0 defangorbic.shop
 0.0.0.0 defaultspurtlonely.com
 0.0.0.0 defaultswigcounterfeit.com
 0.0.0.0 defeat05032026.shop
@@ -37001,6 +37006,7 @@
 0.0.0.0 ewvz.cn
 0.0.0.0 ewwstx.trussardi.com
 0.0.0.0 ewxufqs.cn
+0.0.0.0 ewyvuznndlmrk.online
 0.0.0.0 ewywma.icu
 0.0.0.0 ex-torrenty.org
 0.0.0.0 ex.net.easyjet.com
@@ -38865,6 +38871,7 @@
 0.0.0.0 flaw.cloud
 0.0.0.0 flawerosion.com
 0.0.0.0 flawgrandparentsmysterious.com
+0.0.0.0 flawlesssubstance.com
 0.0.0.0 flaxconfession.com
 0.0.0.0 flaxierfilmset.com
 0.0.0.0 flayedfay.top
@@ -45660,6 +45667,7 @@
 0.0.0.0 help.adtech.fr
 0.0.0.0 help.adtech.us
 0.0.0.0 help.americancrashclaims.com
+0.0.0.0 help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpcollar.com
 0.0.0.0 helpdesk-usps.online
@@ -47164,7 +47172,6 @@
 0.0.0.0 hugeedate.com
 0.0.0.0 hugelog.fcbox.com
 0.0.0.0 hugenicholas.com
-0.0.0.0 hugetrump.com
 0.0.0.0 hugevisit.pro
 0.0.0.0 hugfromoctopus.com
 0.0.0.0 hugobsqkulab.com
@@ -51623,7 +51630,6 @@
 0.0.0.0 jagevirom.com
 0.0.0.0 jaggedshoebruised.com
 0.0.0.0 jaggyaffine.top
-0.0.0.0 jagkart.com
 0.0.0.0 jagnoans.com
 0.0.0.0 jagratadonmeh.top
 0.0.0.0 jahmwv.not4u.kr
@@ -51761,6 +51767,7 @@
 0.0.0.0 jbmmqpmrdjnsn.global
 0.0.0.0 jbmnge.samsamo.net
 0.0.0.0 jbmwrorfwmsle.online
+0.0.0.0 jbqefmxaqivyblv.com
 0.0.0.0 jbrlsr.com
 0.0.0.0 jbtcsd.ivy-oak.de
 0.0.0.0 jbttdl.beautycarechoices.com
@@ -60450,6 +60457,7 @@
 0.0.0.0 lxpbdp.xyz
 0.0.0.0 lxqcgj.com
 0.0.0.0 lxqjy-obtr.love
+0.0.0.0 lxrsappgom.com
 0.0.0.0 lxstat.com
 0.0.0.0 lxsway.alltforforaldrar.se
 0.0.0.0 lxsway.blo.gg
@@ -67950,6 +67958,7 @@
 0.0.0.0 mstmsbz.com
 0.0.0.0 mstorer.net
 0.0.0.0 msub.mmail.northeast.aaa.com
+0.0.0.0 msurjtivvsxvja.com
 0.0.0.0 msvobeuhec.com
 0.0.0.0 msyysajvion.com
 0.0.0.0 msz3.destinia.cn
@@ -69007,7 +69016,6 @@
 0.0.0.0 navi10.com
 0.0.0.0 navi10.ru
 0.0.0.0 navi100.com
-0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
 0.0.0.0 navi18.com
@@ -69044,7 +69052,6 @@
 0.0.0.0 navi53.com
 0.0.0.0 navi55.com
 0.0.0.0 navi56.com
-0.0.0.0 navi58.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
 0.0.0.0 navi63.ru
@@ -70288,6 +70295,7 @@
 0.0.0.0 nonepushed.com
 0.0.0.0 nonerr.com
 0.0.0.0 nonestolesantes.com
+0.0.0.0 nongamespewers.com
 0.0.0.0 nongrayrestis.com
 0.0.0.0 nonguds.com
 0.0.0.0 nonheiring.top
@@ -70492,6 +70500,7 @@
 0.0.0.0 nowtrk.com
 0.0.0.0 noxagile.duapp.com
 0.0.0.0 noxiousinvestor.com
+0.0.0.0 noxiouspay.pro
 0.0.0.0 noxiousrecklesssuspected.com
 0.0.0.0 noyanceborer.com
 0.0.0.0 noyvyv.bosonshop.com
@@ -77517,7 +77526,6 @@
 0.0.0.0 premium-members.com
 0.0.0.0 premium-offers.com
 0.0.0.0 premium-offers.space
-0.0.0.0 premium-x-notes.com
 0.0.0.0 premium4kflix.club
 0.0.0.0 premium4kflix.top
 0.0.0.0 premium4kflix.website
@@ -88677,6 +88685,7 @@
 0.0.0.0 sky.od.ua
 0.0.0.0 sky.tongjiai.com
 0.0.0.0 skyadsmart.com
+0.0.0.0 skycldmeyeguo.website
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 skylindo.com
 0.0.0.0 skylink.vn
@@ -93896,6 +93905,7 @@
 0.0.0.0 spikereekvelocity.com
 0.0.0.0 spilldemolitionarrangement.com
 0.0.0.0 spin83qr.com
+0.0.0.0 spinaemetreme.top
 0.0.0.0 spinborgh.top
 0.0.0.0 spinbox.com
 0.0.0.0 spinbox.freedom.com
@@ -102951,7 +102961,6 @@
 0.0.0.0 theflirtfiesta.com
 0.0.0.0 thefontzone.com
 0.0.0.0 theftdarling.top
-0.0.0.0 thegeekgifts.com
 0.0.0.0 theglossonline.com
 0.0.0.0 thegreatesthits.amazona.de
 0.0.0.0 thegreatesthits.bassic.de
@@ -110205,6 +110214,7 @@
 0.0.0.0 uhlagm.rakurakuseisan.jp
 0.0.0.0 uhland24.de
 0.0.0.0 uhlkij.bonprix.it
+0.0.0.0 uhlomzqpdtduv.space
 0.0.0.0 uhmcjdc.icu
 0.0.0.0 uhmpda.sunlocation.com
 0.0.0.0 uhn9.up-france.fr
@@ -112525,6 +112535,7 @@
 0.0.0.0 vhodzh.pdonna.ru
 0.0.0.0 vhowland.co.uk
 0.0.0.0 vhpabx.herffjones.com
+0.0.0.0 vhqdzoxpepcem.store
 0.0.0.0 vhqtyftqlhebn.store
 0.0.0.0 vhqxhj.siegener-jobanzeiger.de
 0.0.0.0 vhrbxb.vidaxl.nl
@@ -117742,6 +117753,7 @@
 0.0.0.0 wywyuserservice.com
 0.0.0.0 wyxcb3.top
 0.0.0.0 wyzdlu.arhaus.com
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 wyzq.rehuwang.com
 0.0.0.0 wz.allianz.fr
 0.0.0.0 wzbwps.racechip.de
@@ -120282,6 +120294,7 @@
 0.0.0.0 yzykttcy.com
 0.0.0.0 yzyzh7twaa3j3lg2.undiaenlausj.com
 0.0.0.0 z-eaazoov.top
+0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z.dynad.net
@@ -121152,6 +121165,7 @@
 0.0.0.0 zuowen.hydcd.com
 0.0.0.0 zuqalzajno.com
 0.0.0.0 zuqjug.nutrabay.com
+0.0.0.0 zuqxuomhfipor.space
 0.0.0.0 zureiskedamyb.world
 0.0.0.0 zurgeeboonsohu.com
 0.0.0.0 zurjxe.armine.com

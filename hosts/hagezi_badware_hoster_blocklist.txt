@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.16.95
-! Last modified: 2025-06-29T06:10:17.805Z
+! Version: 1.0.16.96
+! Last modified: 2025-06-29T08:58:00.706Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -1365,12 +1365,10 @@
 0.0.0.0 mediafirex.icu
 0.0.0.0 medianewsonline.com
 0.0.0.0 mee.nu
-0.0.0.0 meelou.top
 0.0.0.0 megabyet.net
 0.0.0.0 meilleurforum.com
 0.0.0.0 memoryislife.com
 0.0.0.0 menstudent.shop
-0.0.0.0 merchats.com
 0.0.0.0 mex.tl
 0.0.0.0 mforos.com
 0.0.0.0 miarroba.com

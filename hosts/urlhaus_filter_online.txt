@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
 ! Version: 1.0.20.32
-! Last modified: 2025-06-29T06:10:13.054Z
+! Last modified: 2025-06-29T08:57:56.009Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.tcp.ngrok.io
 0.0.0.0 038d159d-b3bc-44dd-a0c4-bec68c0c4123.random.bb2023.duckdns.org
