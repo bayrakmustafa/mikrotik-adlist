@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.16
-! Last modified: 2025-06-22T06:10:10.226Z
+! Version: 1.0.16.22
+! Last modified: 2025-06-29T06:10:09.756Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.16
+! Version: 1.0.16.22
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-06-20T04:13:04.397Z
+! Last modified: 2025-06-27T17:07:17.630Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12626,6 +12626,7 @@
 0.0.0.0 log.lichviet.org
 0.0.0.0 log.mekongasean.vn
 0.0.0.0 log.ngaynay.vn
+0.0.0.0 log.nguoimuanha.vn
 0.0.0.0 log.nhandan.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.oto.com.vn
@@ -14103,6 +14104,7 @@
 0.0.0.0 bealafulup.com
 0.0.0.0 beauty-tea.com
 0.0.0.0 bebreloomr.com
+0.0.0.0 becketsbesogne.top
 0.0.0.0 bedaoibe.com
 0.0.0.0 bedrapiona.com
 0.0.0.0 bee7.com
@@ -14272,6 +14274,7 @@
 0.0.0.0 broadlyjukeboxunrevised.com
 0.0.0.0 bronzecedarleaf.com
 0.0.0.0 brookgetupshorts.com
+0.0.0.0 browsecoherentunrefined.com
 0.0.0.0 browser-update.org
 0.0.0.0 bruisebaseball.com
 0.0.0.0 brutishlylifevoicing.com
@@ -14570,6 +14573,7 @@
 0.0.0.0 coaphumewy.net
 0.0.0.0 coappreciate.com
 0.0.0.0 coastdetectiveoptical.com
+0.0.0.0 coawujobups.com
 0.0.0.0 cobalten.com
 0.0.0.0 codedexchange.com
 0.0.0.0 cohawaut.com
@@ -14640,6 +14644,7 @@
 0.0.0.0 coremetrics.com
 0.0.0.0 correctdilutetrophy.com
 0.0.0.0 correlationcocktailinevitably.com
+0.0.0.0 corrumpsublid.top
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
 0.0.0.0 counted.com
@@ -14692,12 +14697,14 @@
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 creepingbrings.com
 0.0.0.0 creepingseverely.com
+0.0.0.0 crepedzincite.top
 0.0.0.0 cresfpho2ntesepapillo3.com
 0.0.0.0 crispads.com
 0.0.0.0 crispmedia.com
 0.0.0.0 crispwireless.com
 0.0.0.0 critical-replacement.com
 0.0.0.0 critictruck.com
+0.0.0.0 crittereasilyhangover.com
 0.0.0.0 crmpt.livejasmin.com
 0.0.0.0 crmt.livejasmin.com
 0.0.0.0 croakglanceskier.com
@@ -15302,6 +15309,7 @@
 0.0.0.0 furtheryearbookbelieved.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
+0.0.0.0 futcceabr.com
 0.0.0.0 futsonseeke.net
 0.0.0.0 futurehybrid.tech
 0.0.0.0 futuristicapparatus.com
@@ -15568,6 +15576,7 @@
 0.0.0.0 hikedwarfgipsy.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 hilltopads.net
+0.0.0.0 hiqbejpsiyymatl.com
 0.0.0.0 hit-parade.com
 0.0.0.0 hitbox.com
 0.0.0.0 hitcents.com
@@ -15656,6 +15665,7 @@
 0.0.0.0 iaglkpracviogn.com
 0.0.0.0 iapclick.gowadogo.com
 0.0.0.0 iasds01.com
+0.0.0.0 iauzsghijpmq.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ichachoakiglop.com
 0.0.0.0 iclickcdn.com
@@ -15832,6 +15842,7 @@
 0.0.0.0 jhukfaosdjfa.com
 0.0.0.0 jhxakdmdlz.com
 0.0.0.0 jighucme.com
+0.0.0.0 jildiklta.com
 0.0.0.0 jinkads.de
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 jiordgxkpglzm.com
@@ -16011,6 +16022,7 @@
 0.0.0.0 leonodikeu9sj10.com
 0.0.0.0 lephaush.net
 0.0.0.0 lessemujust.live
+0.0.0.0 lfalfehuq.com
 0.0.0.0 lfeorrzkua.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 libedgolart.com
@@ -16061,6 +16073,7 @@
 0.0.0.0 lj.ochreargue.shop
 0.0.0.0 lkhbcpwpyecs.com
 0.0.0.0 llink.site
+0.0.0.0 llryoelwpse.com
 0.0.0.0 llzv.lzazqroyklozv.top
 0.0.0.0 lmajm.lbylqerzmzlzq.top
 0.0.0.0 lmmjj.lqbvjmkoozark.top
@@ -16527,6 +16540,7 @@
 0.0.0.0 nv3tosjqd.com
 0.0.0.0 nvcrcf.com
 0.0.0.0 nwhnzkbfsnpf.com
+0.0.0.0 nxcygebmxxuo.com
 0.0.0.0 nygwcwsvnu.com
 0.0.0.0 nzaza.com
 0.0.0.0 nzurlmq.com
@@ -16557,6 +16571,7 @@
 0.0.0.0 obsoletepaddlevehicular.com
 0.0.0.0 oceanicdreamcove.com
 0.0.0.0 ocio.leadzu.com
+0.0.0.0 ocixbjnnmabufn.com
 0.0.0.0 oclasrv.com
 0.0.0.0 octteqlxtjagek.com
 0.0.0.0 odcatfvt.com
@@ -16738,6 +16753,7 @@
 0.0.0.0 oxcash.com
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 oxthrilled.com
+0.0.0.0 oxwlhazto.com
 0.0.0.0 ozbkfuhpuolf.com
 0.0.0.0 ozbnagojbop.com
 0.0.0.0 ozctkohaqmc.com
@@ -17167,6 +17183,7 @@
 0.0.0.0 quokkacheeks.com
 0.0.0.0 quzodcttub.com
 0.0.0.0 quzwteqzaabm.com
+0.0.0.0 qvzpofgmlwlnrt.com
 0.0.0.0 qwerfdx.com
 0.0.0.0 qwertize.com
 0.0.0.0 qwerty24.net
@@ -17294,6 +17311,7 @@
 0.0.0.0 revmob.com
 0.0.0.0 revoketypes.com
 0.0.0.0 revstats.com
+0.0.0.0 rhiowzaht.com
 0.0.0.0 rhkyufodw8ochdr3ogsite.com
 0.0.0.0 rhymezebra.com
 0.0.0.0 rhythmnewmedia.com
@@ -17404,6 +17422,7 @@
 0.0.0.0 sabergood.com
 0.0.0.0 sablesong.com
 0.0.0.0 sackbarngroups.com
+0.0.0.0 sacwumsf.com
 0.0.0.0 safebrowsdv.com
 0.0.0.0 safestgatetocontent.com
 0.0.0.0 sageanalyst.net
@@ -17525,6 +17544,7 @@
 0.0.0.0 shiverscissors.com
 0.0.0.0 shndrktrk.com
 0.0.0.0 shoacmoackaugnu.com
+0.0.0.0 shoadroocoosso.com
 0.0.0.0 shoordaird.com
 0.0.0.0 shopeevn-affiliate.blogspot.com
 0.0.0.0 shoppingads.com
@@ -17722,6 +17742,7 @@
 0.0.0.0 stickerchapelsailing.com
 0.0.0.0 stingyshoe.com
 0.0.0.0 stnyirechxxi.com
+0.0.0.0 stoakrestultan.com
 0.0.0.0 stoampaliy.net
 0.0.0.0 stolenforensicssausage.com
 0.0.0.0 stoopfalse.com
@@ -18442,6 +18463,7 @@
 0.0.0.0 workervanewalk.com
 0.0.0.0 worldoffersdaily.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 wormslitty.top
 0.0.0.0 worriednumber.com
 0.0.0.0 worshippers.store
 0.0.0.0 worstideatum.com
@@ -18580,6 +18602,7 @@
 0.0.0.0 xrea.com
 0.0.0.0 xruamzpanbca.com
 0.0.0.0 xsaeafkfilbcur.com
+0.0.0.0 xsaheqapygdykxq.com
 0.0.0.0 xszpuvwr7.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremeserve.xyz
@@ -18798,7 +18821,6 @@
 0.0.0.0 api.iterable.com
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.quantumgraph.com
-0.0.0.0 api.statsig.com
 0.0.0.0 api.taps.io
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.wipmania.com

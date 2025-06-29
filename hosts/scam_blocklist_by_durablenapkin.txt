@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.46
-! Last modified: 2025-06-22T06:10:14.137Z
+! Version: 1.0.17.53
+! Last modified: 2025-06-29T06:10:12.963Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 1bmo-reactivemyaccount0.com
@@ -63,7 +63,6 @@
 0.0.0.0 amorpulse.com
 0.0.0.0 amznshirts.com
 0.0.0.0 an1.is
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
@@ -103,7 +102,6 @@
 0.0.0.0 balticpipe.wordpress.com
 0.0.0.0 bantucepat.com
 0.0.0.0 bcb.game
-0.0.0.0 beacon.apsehick.date
 0.0.0.0 beautysolution24.com
 0.0.0.0 beeaar.com
 0.0.0.0 beecrave.com
@@ -161,6 +159,7 @@
 0.0.0.0 btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 budm.shop
+0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
 0.0.0.0 by-emmamuller.de
@@ -218,6 +217,7 @@
 0.0.0.0 coolestpod.com
 0.0.0.0 cooperation-odoo.com
 0.0.0.0 corg.co
+0.0.0.0 costssco.com
 0.0.0.0 couponxoo.com
 0.0.0.0 courier-tracking.com
 0.0.0.0 covex.it
@@ -275,6 +275,7 @@
 0.0.0.0 dogparadisestore.com
 0.0.0.0 doh-gov.com
 0.0.0.0 doh-gov.ph
+0.0.0.0 dohealths.com
 0.0.0.0 dolomiteoutlet.com
 0.0.0.0 dolystore.com
 0.0.0.0 dopestore.pl
@@ -392,14 +393,12 @@
 0.0.0.0 foreveusps.com
 0.0.0.0 forumdetran.co
 0.0.0.0 freebitcoin.pages.dev
-0.0.0.0 freedom-ca-5g.com
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 frest.info
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
-0.0.0.0 fuckmebaby.click
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
 0.0.0.0 fullview.pl
@@ -531,7 +530,6 @@
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
 0.0.0.0 informationpolicy.cloud
-0.0.0.0 injustice.site
 0.0.0.0 innomediacreate.com
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
@@ -570,6 +568,7 @@
 0.0.0.0 kms-pc.com
 0.0.0.0 kms-tool.com
 0.0.0.0 kmsauto.info
+0.0.0.0 kmspi.co
 0.0.0.0 kmspico-official.org
 0.0.0.0 kmspico.io
 0.0.0.0 knightmods.com
@@ -713,6 +712,7 @@
 0.0.0.0 navi63.ru
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
+0.0.0.0 navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 navi71.com
 0.0.0.0 navi72.com
@@ -798,7 +798,6 @@
 0.0.0.0 onlyfanstake.pro
 0.0.0.0 onrunningshop.com
 0.0.0.0 ontario-energy.com
-0.0.0.0 open-cbd.de
 0.0.0.0 orderquilt.com
 0.0.0.0 ousd-vault.com
 0.0.0.0 outarshop.fi
@@ -839,7 +838,6 @@
 0.0.0.0 pjs.outlet.com
 0.0.0.0 pl.vider-info.pl
 0.0.0.0 pl.wojewodapodlaski.pl
-0.0.0.0 platform.crypto1capital-trade.com
 0.0.0.0 player-cda.pl
 0.0.0.0 player-qr.com
 0.0.0.0 polish-money-matters.blogspot.com
@@ -872,6 +870,7 @@
 0.0.0.0 punyauang.xyz
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
+0.0.0.0 queenscattery.com
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
 0.0.0.0 rastreiobrasil.co
@@ -984,8 +983,8 @@
 0.0.0.0 stearncommunjty.net
 0.0.0.0 stellara.de
 0.0.0.0 stellasummer.com
-0.0.0.0 stiloautoparts.online
 0.0.0.0 stingcool-com.myshopify.com
+0.0.0.0 storagestory.com
 0.0.0.0 store-aleteia.org
 0.0.0.0 store-swatch.com
 0.0.0.0 store-uni-app.com
@@ -1266,7 +1265,6 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
@@ -1280,6 +1278,7 @@
 0.0.0.0 yasir252.com
 0.0.0.0 yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
+0.0.0.0 yeyvibe.com
 0.0.0.0 ygtube.xyz
 0.0.0.0 yhdshop.com
 0.0.0.0 yofi-yofi.com
@@ -1290,7 +1289,6 @@
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com
-0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 zalukaj-film.pl
 0.0.0.0 zalukaj-pl.tv
@@ -1313,7 +1311,6 @@
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 zerowasteinitiative.com
-0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com

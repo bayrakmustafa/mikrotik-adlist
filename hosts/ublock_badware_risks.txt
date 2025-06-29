@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.18.27
-! Last modified: 2025-06-22T06:10:19.475Z
+! Version: 1.0.18.29
+! Last modified: 2025-06-29T06:10:17.513Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -1913,6 +1913,7 @@
 0.0.0.0 hm99-free7apo.gift
 0.0.0.0 tadaapo.gift
 0.0.0.0 tadadeai.weebly.com
+0.0.0.0 improveyourhand.online
 0.0.0.0 apkmirror.co
 0.0.0.0 webogram.org
 0.0.0.0 webogram.ru
@@ -2357,7 +2358,15 @@
 0.0.0.0 telezelm-*.icu
 0.0.0.0 whatsapp*.icu
 0.0.0.0 upgradeyourspotify.cc
+0.0.0.0 divinedownload.com
+0.0.0.0 swiss-passapp.web.app
+0.0.0.0 the.jxc.mybluehost.me
+0.0.0.0 suissscomee-correo*.codeanyapp.com
+0.0.0.0 verwalten-sbb-informationen-managecff-kundenportal-online.codeanyapp.com
 0.0.0.0 cffsbbhost-aniamaria*.codeanyapp.com
+0.0.0.0 manage-administrere-swisspass-*.codeanyapp.com
+0.0.0.0 mst.ail.mybluehost.me
+0.0.0.0 swisspost.web.app
 0.0.0.0 crypto-idx.com
 0.0.0.0 tokenp0ckht.click
 0.0.0.0 mememoguls.vip
@@ -2412,6 +2421,9 @@
 0.0.0.0 alienxchain*.pages.dev
 0.0.0.0 xcoinspro.com
 0.0.0.0 metamask*.webflow.io
+0.0.0.0 bitvavo*.cc
+0.0.0.0 bitvavo*.top
+0.0.0.0 bitvavo*.vip
 0.0.0.0 auth--sso-trust.webflow.io
 0.0.0.0 reward-sky.money
 0.0.0.0 bnbc-onay-sayfasi-global.smtp-host.de
