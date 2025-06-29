@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.15.67
-! Last modified: 2025-06-22T06:10:19.738Z
+! Version: 1.0.15.71
+! Last modified: 2025-06-29T06:10:17.720Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -12,7 +12,6 @@
 0.0.0.0 1337.cx
 0.0.0.0 16-b.it
 0.0.0.0 1cooldns.com
-0.0.0.0 1dumb.com
 0.0.0.0 2288.org
 0.0.0.0 24-7.ro
 0.0.0.0 25u.com
@@ -98,9 +97,7 @@
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
-0.0.0.0 awiki.org
 0.0.0.0 ax.lt
-0.0.0.0 b0ne.com
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
 0.0.0.0 bad.mn
@@ -272,7 +269,6 @@
 0.0.0.0 de-a.org
 0.0.0.0 deaftone.com
 0.0.0.0 dearabba.org
-0.0.0.0 death-by-monkeys.com
 0.0.0.0 dedyn.io
 0.0.0.0 demosoftonline.com
 0.0.0.0 demoteam.ch
@@ -458,7 +454,6 @@
 0.0.0.0 echoparklake.com
 0.0.0.0 edns.biz
 0.0.0.0 effers.com
-0.0.0.0 eiresol.com
 0.0.0.0 elchemi.com
 0.0.0.0 elitter.net
 0.0.0.0 embeddedonline.org
@@ -519,7 +514,6 @@
 0.0.0.0 for-our.info
 0.0.0.0 for-some.biz
 0.0.0.0 for-the.biz
-0.0.0.0 foroemprende.com
 0.0.0.0 forss.to
 0.0.0.0 forumz.info
 0.0.0.0 fr.to
@@ -1137,7 +1131,6 @@
 0.0.0.0 portalindustries.org
 0.0.0.0 portfwd.com
 0.0.0.0 portmap.host
-0.0.0.0 possessed.us
 0.0.0.0 prettyweak.com
 0.0.0.0 priamaakcia.sk
 0.0.0.0 privatedns.com
@@ -1160,7 +1153,6 @@
 0.0.0.0 qpoe.com
 0.0.0.0 qthome.org
 0.0.0.0 quackerscomic.com
-0.0.0.0 queerline.de
 0.0.0.0 quicksytes.com
 0.0.0.0 r-o-o-t.net
 0.0.0.0 radiogirl.fm
@@ -1349,7 +1341,6 @@
 0.0.0.0 thatip.com
 0.0.0.0 thddns.net
 0.0.0.0 the-button.com
-0.0.0.0 theblacklist.org
 0.0.0.0 thehomeserver.net
 0.0.0.0 themcmillans.org
 0.0.0.0 thenest.org
@@ -1378,7 +1369,6 @@
 0.0.0.0 tvlinux.com
 0.0.0.0 twilightparadox.com
 0.0.0.0 twodns.de
-0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
 0.0.0.0 udp64.de

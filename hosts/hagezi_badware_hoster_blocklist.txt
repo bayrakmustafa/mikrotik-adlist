@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.16.90
-! Last modified: 2025-06-22T06:10:19.838Z
+! Version: 1.0.16.95
+! Last modified: 2025-06-29T06:10:17.805Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -208,7 +208,6 @@
 0.0.0.0 aioblogs.com
 0.0.0.0 airground.club
 0.0.0.0 airself.shop
-0.0.0.0 akgoj.cn
 0.0.0.0 akuanakmamah.de
 0.0.0.0 al6.de
 0.0.0.0 alavps.com
@@ -257,7 +256,6 @@
 0.0.0.0 asia.cm
 0.0.0.0 asia.gp
 0.0.0.0 asiaal.shop
-0.0.0.0 asianhotel.shop
 0.0.0.0 at.cr
 0.0.0.0 at.st
 0.0.0.0 atsnx.com
@@ -408,7 +406,6 @@
 0.0.0.0 bloggang.com
 0.0.0.0 bloggazza.com
 0.0.0.0 bloggazzo.com
-0.0.0.0 blogger-news.net
 0.0.0.0 bloggerbags.com
 0.0.0.0 bloggerchest.com
 0.0.0.0 bloggersdelight.dk
@@ -556,7 +553,6 @@
 0.0.0.0 bookmark.com
 0.0.0.0 bookspace.fr
 0.0.0.0 booru.org
-0.0.0.0 boosterblog.com
 0.0.0.0 boundpeter.shop
 0.0.0.0 boutiqueond.shop
 0.0.0.0 boxmail.biz
@@ -585,7 +581,6 @@
 0.0.0.0 byethost3.com
 0.0.0.0 byto.de
 0.0.0.0 bz.tc
-0.0.0.0 c.la
 0.0.0.0 c.pl
 0.0.0.0 ca.gp
 0.0.0.0 cafeblog.hu
@@ -804,7 +799,6 @@
 0.0.0.0 dorabiamarketing.shop
 0.0.0.0 dot.tk
 0.0.0.0 doteyoueshop.shop
-0.0.0.0 downfall.shop
 0.0.0.0 download.ac
 0.0.0.0 download.sh
 0.0.0.0 downloaden24.de
@@ -831,7 +825,6 @@
 0.0.0.0 eazylaunch.com
 0.0.0.0 eb2a.com
 0.0.0.0 ebeesboutique.shop
-0.0.0.0 eblogmall.com
 0.0.0.0 ebuykind.shop
 0.0.0.0 ec.gp
 0.0.0.0 ecardalert.com
@@ -1774,6 +1767,7 @@
 0.0.0.0 startertjes.nl
 0.0.0.0 stormloader.com
 0.0.0.0 stormpages.com
+0.0.0.0 studio.site
 0.0.0.0 subdomain.de
 0.0.0.0 suchtis.de
 0.0.0.0 suomiblog.com
@@ -1958,14 +1952,12 @@
 0.0.0.0 wallinside.com
 0.0.0.0 wallst.ru
 0.0.0.0 wapka.club
-0.0.0.0 wapka.co
 0.0.0.0 wapka.org
 0.0.0.0 wapka.site
 0.0.0.0 wapka.store
 0.0.0.0 wapka.top
 0.0.0.0 wapka.website
 0.0.0.0 wapka.xyz
-0.0.0.0 waptrad.top
 0.0.0.0 warhead.com
 0.0.0.0 warp0.com
 0.0.0.0 web.gg
