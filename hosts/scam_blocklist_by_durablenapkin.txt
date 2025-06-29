@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.53
-! Last modified: 2025-06-29T06:10:12.963Z
+! Version: 1.0.17.54
+! Last modified: 2025-06-29T08:57:55.907Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 1bmo-reactivemyaccount0.com
@@ -454,6 +454,7 @@
 0.0.0.0 happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 headsets4business.co.uk
+0.0.0.0 help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 helpnanacenter.helpscoutdocs.com
@@ -479,7 +480,6 @@
 0.0.0.0 hsuitehub.com
 0.0.0.0 hubfiles.ws
 0.0.0.0 hudson-bay.com
-0.0.0.0 hugetrump.com
 0.0.0.0 hunden.info
 0.0.0.0 hushlove.com
 0.0.0.0 hyndtren25.pages.dev
@@ -540,7 +540,6 @@
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
 0.0.0.0 j-natural.com
-0.0.0.0 jagkart.com
 0.0.0.0 januashop.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
@@ -669,7 +668,6 @@
 0.0.0.0 navi10.com
 0.0.0.0 navi10.ru
 0.0.0.0 navi100.com
-0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
 0.0.0.0 navi18.com
@@ -706,7 +704,6 @@
 0.0.0.0 navi53.com
 0.0.0.0 navi55.com
 0.0.0.0 navi56.com
-0.0.0.0 navi58.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
 0.0.0.0 navi63.ru
@@ -848,7 +845,6 @@
 0.0.0.0 post-nachsenden.de
 0.0.0.0 powerboostup.com
 0.0.0.0 prawdziwefilmy.pl
-0.0.0.0 premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
 0.0.0.0 presale-friday.info
@@ -1030,7 +1026,6 @@
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
-0.0.0.0 thegeekgifts.com
 0.0.0.0 thehappywood.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 thenorthfacegreece.com
@@ -1265,6 +1260,7 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
@@ -1289,6 +1285,7 @@
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com
+0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 zalukaj-film.pl
 0.0.0.0 zalukaj-pl.tv

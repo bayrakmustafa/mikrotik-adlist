@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-! Version: 1.0.28.62
-! Last modified: 2025-06-29T06:09:56.368Z
+! Version: 1.0.28.64
+! Last modified: 2025-06-29T08:57:39.213Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 rtaisimefxljsab.com
 0.0.0.0 st.alneingloat.com
@@ -9971,6 +9971,7 @@
 0.0.0.0 boyishdetrimental.com
 0.0.0.0 boymagicdate.com
 0.0.0.0 boyunakylie.com
+0.0.0.0 bpabmyodbtav.com
 0.0.0.0 bpaqalnke.com
 0.0.0.0 bparcizapowm.com
 0.0.0.0 bpazidzib.com
@@ -12254,6 +12255,7 @@
 0.0.0.0 daokapok.com
 0.0.0.0 daphnews.com
 0.0.0.0 dapper.net
+0.0.0.0 darcieydent.top
 0.0.0.0 darcyjellynobles.com
 0.0.0.0 dardzeglhpsqv.tech
 0.0.0.0 daredjadedormitory.com
@@ -12482,6 +12484,7 @@
 0.0.0.0 deepsathegoh.com
 0.0.0.0 deezouchuphaub.net
 0.0.0.0 defandoar.xyz
+0.0.0.0 defangorbic.shop
 0.0.0.0 defaultspurtlonely.com
 0.0.0.0 defaultswigcounterfeit.com
 0.0.0.0 defeatedtulipcogitate.com
@@ -14224,6 +14227,7 @@
 0.0.0.0 ewruuqe5p8ca.com
 0.0.0.0 ewutoxapaffqc.site
 0.0.0.0 ewuvpujntjoael.com
+0.0.0.0 ewyvuznndlmrk.online
 0.0.0.0 exacdn.com
 0.0.0.0 exactorpilers.shop
 0.0.0.0 exaggerating.makeup
@@ -14547,6 +14551,7 @@
 0.0.0.0 fdiirjong.com
 0.0.0.0 fdjwhykja.com
 0.0.0.0 fdlqccbxhqthy.com
+0.0.0.0 fdnaylrjswdud.space
 0.0.0.0 fdnkwqgwrd.com
 0.0.0.0 fdubsbonier.top
 0.0.0.0 fdyxpfsfycqj.com
@@ -14847,6 +14852,7 @@
 0.0.0.0 flaw.cloud
 0.0.0.0 flawerosion.com
 0.0.0.0 flawgrandparentsmysterious.com
+0.0.0.0 flawlesssubstance.com
 0.0.0.0 flaxconfession.com
 0.0.0.0 flaxierfilmset.com
 0.0.0.0 flayedfay.top
@@ -16922,6 +16928,7 @@
 0.0.0.0 hj6y7jrhnysuchtjhw.info
 0.0.0.0 hjalma.com
 0.0.0.0 hjbtunmh.com
+0.0.0.0 hjcgucgcypvex.store
 0.0.0.0 hjcpyuivygenx.rocks
 0.0.0.0 hjgyvykaybgrq.com
 0.0.0.0 hjiqepnmicea.com
@@ -18135,6 +18142,7 @@
 0.0.0.0 izikthr.my
 0.0.0.0 izitrckr.com
 0.0.0.0 izlok.xyz
+0.0.0.0 izqordiqqvw.com
 0.0.0.0 izrnvo.com
 0.0.0.0 izvtmrynby.com
 0.0.0.0 izzdenxdxrbdc.space
@@ -18225,6 +18233,7 @@
 0.0.0.0 jbm6c54upkui.com
 0.0.0.0 jbmmqpmrdjnsn.global
 0.0.0.0 jbmwrorfwmsle.online
+0.0.0.0 jbqefmxaqivyblv.com
 0.0.0.0 jbtul.com
 0.0.0.0 jbucljxqgbgzk.icu
 0.0.0.0 jbvoejzmaqmeq.top
@@ -18974,6 +18983,7 @@
 0.0.0.0 kkeichcdm.xyz
 0.0.0.0 kkeugrilxgql.com
 0.0.0.0 kkgrttfmi.com
+0.0.0.0 kkhfsefqdurod.site
 0.0.0.0 kkhmhgbcrceip.website
 0.0.0.0 kkieeoxcjpqah.vip
 0.0.0.0 kkluibrulalda.website
@@ -20092,6 +20102,7 @@
 0.0.0.0 lsjne.com
 0.0.0.0 lskillsexkcerl.com
 0.0.0.0 lsoextraorfekin.com
+0.0.0.0 lsqyahmytfwhn.store
 0.0.0.0 lsupvtyjffooymb.xyz
 0.0.0.0 lsuwndhxt.com
 0.0.0.0 lswhomfiluabmep.com
@@ -20236,6 +20247,7 @@
 0.0.0.0 lxnkuie.com
 0.0.0.0 lxoycrhawqjvk.com
 0.0.0.0 lxqjy-obtr.love
+0.0.0.0 lxrsappgom.com
 0.0.0.0 lxstat.com
 0.0.0.0 lxvsjdmjygqcc.space
 0.0.0.0 lxylxwxvhffvm.vip
@@ -20261,6 +20273,7 @@
 0.0.0.0 lyssapebble.com
 0.0.0.0 lyticaframeofm.com
 0.0.0.0 lyvdfawjhzdk.com
+0.0.0.0 lyvkvqitzktkx.store
 0.0.0.0 lywasnothycanty.info
 0.0.0.0 lzazqroyklozv.top
 0.0.0.0 lzbwprvfzvbdx.website
@@ -21288,6 +21301,7 @@
 0.0.0.0 mskpwqlppxham.life
 0.0.0.0 msqwborynxnqd.online
 0.0.0.0 msrehcmpeme.com
+0.0.0.0 msurjtivvsxvja.com
 0.0.0.0 msvobeuhec.com
 0.0.0.0 msyysajvion.com
 0.0.0.0 mszddprapuziw.vip
@@ -21934,6 +21948,7 @@
 0.0.0.0 nonepushed.com
 0.0.0.0 nonerr.com
 0.0.0.0 nonestolesantes.com
+0.0.0.0 nongamespewers.com
 0.0.0.0 nongrayrestis.com
 0.0.0.0 nonheiring.top
 0.0.0.0 nonprosyaffler.top
@@ -22026,6 +22041,7 @@
 0.0.0.0 nowsubmission.com
 0.0.0.0 nowtrk.com
 0.0.0.0 noxiousinvestor.com
+0.0.0.0 noxiouspay.pro
 0.0.0.0 noxiousrecklesssuspected.com
 0.0.0.0 nozoakamsaun.net
 0.0.0.0 nozzlespaccha.com
@@ -25460,6 +25476,7 @@
 0.0.0.0 razzlebuyer.com
 0.0.0.0 rbejwzfebcxaz.world
 0.0.0.0 rbmigxiog.com
+0.0.0.0 rbnxgaugxdd.com
 0.0.0.0 rboyqkyojrelk.top
 0.0.0.0 rboyqkyojrjbv.top
 0.0.0.0 rboyqkyrwrvkq.top
@@ -26648,6 +26665,7 @@
 0.0.0.0 sanoithmefeyau.com
 0.0.0.0 sanovhva.com
 0.0.0.0 sanseemp.com
+0.0.0.0 sanseisspeeded.shop
 0.0.0.0 santonpardal.com
 0.0.0.0 santosattestation.com
 0.0.0.0 sapfailedfelon.com
@@ -27356,6 +27374,7 @@
 0.0.0.0 sjqvpjbcffhbv.site
 0.0.0.0 sjrejapufeaixvr.com
 0.0.0.0 sjtactic.com
+0.0.0.0 sjvaovqhn.com
 0.0.0.0 skaldmishara.top
 0.0.0.0 skated.co
 0.0.0.0 skatestooped.com
@@ -27769,6 +27788,7 @@
 0.0.0.0 spikearsonembroider.com
 0.0.0.0 spilldemolitionarrangement.com
 0.0.0.0 spin83qr.com
+0.0.0.0 spinaemetreme.top
 0.0.0.0 spinborgh.top
 0.0.0.0 spinbox.net
 0.0.0.0 spindlyrebegin.top
@@ -29820,6 +29840,7 @@
 0.0.0.0 uhegarberetrof.com
 0.0.0.0 uhfdsplo.com
 0.0.0.0 uhhrvnstvttg.com
+0.0.0.0 uhlomzqpdtduv.space
 0.0.0.0 uhodsplo.com
 0.0.0.0 uhpdsplo.com
 0.0.0.0 uhrvjjkbnucvb.today
@@ -30507,6 +30528,7 @@
 0.0.0.0 vhlinocmokqtv.online
 0.0.0.0 vhmshtfdbqouapb.com
 0.0.0.0 vhngny-cfwm.life
+0.0.0.0 vhqdzoxpepcem.store
 0.0.0.0 vhyrtemq.xyz
 0.0.0.0 vi-serve.com
 0.0.0.0 viabeldumchan.com
@@ -31981,6 +32003,7 @@
 0.0.0.0 youservit.com
 0.0.0.0 youtube.local
 0.0.0.0 yowmelhhkeovd.store
+0.0.0.0 yoxkmkrrfses.com
 0.0.0.0 yoxwrdiw.com
 0.0.0.0 yoyadsdom.com
 0.0.0.0 ype7.com
@@ -32307,6 +32330,7 @@
 0.0.0.0 zumrieth.com
 0.0.0.0 zunsoach.com
 0.0.0.0 zupee.cim
+0.0.0.0 zuqxuomhfipor.space
 0.0.0.0 zureiskedamyb.world
 0.0.0.0 zurgeeboonsohu.com
 0.0.0.0 zuulo.xyz
@@ -102705,6 +102729,7 @@
 0.0.0.0 dgxjxeuzm.com
 0.0.0.0 plthnh.icu
 0.0.0.0 twjrxo.top
+0.0.0.0 8x3wolchw.com
 0.0.0.0 1l27pkxp5w.com
 0.0.0.0 kwsugo.icu
 0.0.0.0 hl4pvqgbyt.com
