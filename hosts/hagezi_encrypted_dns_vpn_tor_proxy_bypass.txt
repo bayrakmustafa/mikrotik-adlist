@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
-! Version: 1.0.18.78
-! Last modified: 2025-06-29T08:58:00.520Z
+! Version: 1.0.18.79
+! Last modified: 2025-06-30T06:02:18.149Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1482,6 +1482,7 @@
 0.0.0.0 fitnessdepotprices.com
 0.0.0.0 chart.books.fivepals.com
 0.0.0.0 fixproxy.com
+0.0.0.0 dns.fizz.studio
 0.0.0.0 gothgirlsareawesome.flamex.hm
 0.0.0.0 flarquix.xyz
 0.0.0.0 flashpull.com
@@ -2589,6 +2590,7 @@
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
 0.0.0.0 mzhlhrfr8z.info
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -2878,7 +2880,6 @@
 0.0.0.0 openvpn.com
 0.0.0.0 openvpn.net
 0.0.0.0 openvpn-ssh.com
-0.0.0.0 flipgrid.opior.com
 0.0.0.0 musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id
 0.0.0.0 this.revolution.been.televised.df.cissp.or.id
 0.0.0.0 hitman.malam.or.id
@@ -2972,7 +2973,6 @@
 0.0.0.0 pepetio.xyz
 0.0.0.0 school.pepikutan.net
 0.0.0.0 perfect-privacy.com
-0.0.0.0 perfectvpn.net
 0.0.0.0 perlproxy.com
 0.0.0.0 homework.maths.percentages.perona.cl
 0.0.0.0 darya.persiannit.net
@@ -3010,7 +3010,6 @@
 0.0.0.0 dns1.pietjacobs.be
 0.0.0.0 mind.gov.ping24.com
 0.0.0.0 pingproxy.com
-0.0.0.0 www-funny.pinkertonmc.com
 0.0.0.0 pinkproxy.xyz
 0.0.0.0 piraproxy.org
 0.0.0.0 pirataproxy.com
@@ -3307,7 +3306,6 @@
 0.0.0.0 purevpn-tools.com
 0.0.0.0 pushokey.com
 0.0.0.0 pushvpn.com
-0.0.0.0 start.puto.me
 0.0.0.0 pxaa.com
 0.0.0.0 pyproxy.com
 0.0.0.0 doh.pyry.me
@@ -3374,7 +3372,6 @@
 0.0.0.0 rayneau.fr
 0.0.0.0 rayobyte.com
 0.0.0.0 learn.razorlan.info
-0.0.0.0 use.razorlan.info
 0.0.0.0 dns.rbn.gr
 0.0.0.0 rcsm.ir
 0.0.0.0 login.readinghelper.online
@@ -3410,7 +3407,6 @@
 0.0.0.0 dnspub.restena.lu
 0.0.0.0 dns.retakecs.com
 0.0.0.0 rethinkdns.com
-0.0.0.0 zixypy.reticence.lol
 0.0.0.0 www-proxy.retportal.com
 0.0.0.0 revelio.top
 0.0.0.0 revko.info
@@ -3423,7 +3419,6 @@
 0.0.0.0 lexiapowerup.ricksolinas.com
 0.0.0.0 dns.rin.sh
 0.0.0.0 elishawisabaddie.rinet.fi
-0.0.0.0 next.rinet.ai
 0.0.0.0 ringvpn.com
 0.0.0.0 riseup.net
 0.0.0.0 rnblyatclub.online
@@ -3458,7 +3453,6 @@
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
 0.0.0.0 uw-dns.rubyfish.cn
-0.0.0.0 yoursuper.rude.li
 0.0.0.0 rumpelsepp.org
 0.0.0.0 error404becausepar1scantlose.run.place
 0.0.0.0 doh.runsel.id
@@ -3474,7 +3468,6 @@
 0.0.0.0 s4m.xyz
 0.0.0.0 scienceforkids.saahee.cn
 0.0.0.0 math.sachhot.com
-0.0.0.0 desmos.saf-eng.com
 0.0.0.0 safe-inet.com
 0.0.0.0 safeguardianvpn.com
 0.0.0.0 safenetbrowser.com
@@ -3664,7 +3657,6 @@
 0.0.0.0 guard.sntrk.ru
 0.0.0.0 dove.soapagent.com
 0.0.0.0 dove.soapclient.com
-0.0.0.0 signup.soapclient.com
 0.0.0.0 socialnetworkinfo.us
 0.0.0.0 socks-proxy.net
 0.0.0.0 sockslist.us
@@ -3676,7 +3668,6 @@
 0.0.0.0 trade.my.solidarychain.com
 0.0.0.0 solidproxy.net
 0.0.0.0 somelikeitproxy.com
-0.0.0.0 rizzohiosigmajasin111.com.soon.it
 0.0.0.0 jcmswebsiteunblocker.soon.it
 0.0.0.0 konata-ice.soon.it
 0.0.0.0 maxkershoe.soon.it
@@ -3740,7 +3731,6 @@
 0.0.0.0 use.star.is
 0.0.0.0 tests.data.stardustcommercialservices.com
 0.0.0.0 stargate.one
-0.0.0.0 task.words.starlordbob.com
 0.0.0.0 starruby.us
 0.0.0.0 starrynight.site
 0.0.0.0 starssh.com
@@ -3750,7 +3740,29 @@
 0.0.0.0 browse.startpage.com
 0.0.0.0 eu-browse.startpage.com
 0.0.0.0 eu2-browse.startpage.com
-0.0.0.0 proxy2.startpage.com
+0.0.0.0 0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com
+0.0.0.0 071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com
+0.0.0.0 0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com
+0.0.0.0 1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com
+0.0.0.0 51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com
+0.0.0.0 5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com
+0.0.0.0 787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com
+0.0.0.0 919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com
+0.0.0.0 9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com
+0.0.0.0 954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com
+0.0.0.0 aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com
+0.0.0.0 afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com
+0.0.0.0 c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com
+0.0.0.0 c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com
+0.0.0.0 c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com
+0.0.0.0 cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com
+0.0.0.0 dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com
+0.0.0.0 e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com
+0.0.0.0 ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com
+0.0.0.0 f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com
+0.0.0.0 f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com
+0.0.0.0 fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com
+0.0.0.0 session.proxy2.startpage.com
 0.0.0.0 proxy3.startpage.com
 0.0.0.0 s4-us2.startpage.com
 0.0.0.0 us1-browse.startpage.com
@@ -3778,7 +3790,6 @@
 0.0.0.0 dns.strassmair.org
 0.0.0.0 streamvia.com
 0.0.0.0 streamvpn.com
-0.0.0.0 you.know.that.im.strokin.it
 0.0.0.0 pleasekeep.strokin.it
 0.0.0.0 strongvpn.com
 0.0.0.0 class.proof.studiovk.com
@@ -3850,7 +3861,6 @@
 0.0.0.0 surtshark.com
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
-0.0.0.0 poptee-liawheufhwae-awef.swanndvr.net
 0.0.0.0 popteeeee-lkshfeakwueh-ew.swanndvr.net
 0.0.0.0 ramm-ume-pro.swanndvr.net
 0.0.0.0 rammerhead-10.swanndvr.net
@@ -4030,8 +4040,6 @@
 0.0.0.0 tor2web.it
 0.0.0.0 tor2web.org
 0.0.0.0 tor2web.ru
-0.0.0.0 tor2web.su
-0.0.0.0 tor4pay.com
 0.0.0.0 torguard.biz
 0.0.0.0 torguard.net
 0.0.0.0 torguard.org
@@ -4287,7 +4295,6 @@
 0.0.0.0 ines.zfn.uni-bremen.de
 0.0.0.0 guh.uniall.tk
 0.0.0.0 unifiedvpn.com
-0.0.0.0 galileo.math.unipd.it
 0.0.0.0 universityproxy.net
 0.0.0.0 unkn0wngb.lol
 0.0.0.0 unknownproxy.com

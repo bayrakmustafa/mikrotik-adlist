@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.17.86
-! Last modified: 2025-06-29T08:57:50.725Z
+! Version: 1.0.17.87
+! Last modified: 2025-06-30T06:02:08.806Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0123456789nonexistent.com
 0.0.0.0 0123movie.net
@@ -6352,7 +6352,6 @@
 0.0.0.0 ns389251.ovh.net
 0.0.0.0 vps-dd0a0715.vps.ovh.net
 0.0.0.0 ovh-booter.com
-0.0.0.0 oxtorrent.cc
 0.0.0.0 oxtorrent.co
 0.0.0.0 oxtorrent.com
 0.0.0.0 oxtorrent.me
@@ -6520,8 +6519,6 @@
 0.0.0.0 piratebay-proxy.to
 0.0.0.0 piratebay-proxylist.com
 0.0.0.0 piratebay-proxylist.net
-0.0.0.0 piratebay1.info
-0.0.0.0 piratebay1.live
 0.0.0.0 piratebay1.xyz
 0.0.0.0 piratebayblocked.com
 0.0.0.0 piratebaylive.com
@@ -6606,7 +6603,6 @@
 0.0.0.0 planetgames.fr
 0.0.0.0 bt.planetq.net
 0.0.0.0 platinmods.com
-0.0.0.0 bt.play-skill.com
 0.0.0.0 playary.com
 0.0.0.0 playdede.tv
 0.0.0.0 playersklub.tv
@@ -7043,7 +7039,6 @@
 0.0.0.0 redditnbastreams.org
 0.0.0.0 redditnflstreams.net
 0.0.0.0 redditnhlstreams.com
-0.0.0.0 redditsoccerstreams.org
 0.0.0.0 redditsoccerstreams.tv
 0.0.0.0 redditsoccerstreams.xyz
 0.0.0.0 redecanais.zip
@@ -7194,7 +7189,6 @@
 0.0.0.0 rsload.net
 0.0.0.0 rsoccerstreams.com
 0.0.0.0 rsoccerstreams.net
-0.0.0.0 rth77.ru
 0.0.0.0 rtorrent.net
 0.0.0.0 rulu.co
 0.0.0.0 rune-server.org
@@ -7297,7 +7291,6 @@
 0.0.0.0 sdcv.pl
 0.0.0.0 sdmega.com
 0.0.0.0 sdtoons.in
-0.0.0.0 thepiratebay.se.net
 0.0.0.0 search-torrent.com
 0.0.0.0 searchcracks.com
 0.0.0.0 seasonvar.ru
@@ -7468,8 +7461,6 @@
 0.0.0.0 bt.shinsen-subs.org
 0.0.0.0 shipofharkinian.com
 0.0.0.0 shiro.is
-0.0.0.0 tracker.shittyurl.org
-0.0.0.0 udp-tracker.shittyurl.org
 0.0.0.0 tracker.shkinev.me
 0.0.0.0 shnflac.net
 0.0.0.0 shogiroom.com
@@ -7489,7 +7480,6 @@
 0.0.0.0 pj.sidewalkcrusaders.com
 0.0.0.0 aus.sierules.com
 0.0.0.0 sifara.com
-0.0.0.0 silentstress.wtf
 0.0.0.0 siliconguide.com
 0.0.0.0 siluhd.com
 0.0.0.0 simfileshare.net
@@ -7605,7 +7595,6 @@
 0.0.0.0 soaperpage.com
 0.0.0.0 soapertv.cc
 0.0.0.0 soapgate.org
-0.0.0.0 socagol.tv
 0.0.0.0 socceron.name
 0.0.0.0 socceron.org
 0.0.0.0 socceronline.me
@@ -7676,7 +7665,6 @@
 0.0.0.0 sonofshun.com
 0.0.0.0 sosulki.net
 0.0.0.0 soul-anime.us
-0.0.0.0 soundpark.space
 0.0.0.0 bnbteasytracker.sourceforge.net
 0.0.0.0 sourcetv.info
 0.0.0.0 media.southlinkbd.com
@@ -7721,7 +7709,6 @@
 0.0.0.0 sport365.sx
 0.0.0.0 sportbit.org
 0.0.0.0 sportend.com
-0.0.0.0 sporthd.live
 0.0.0.0 sportlemon.be
 0.0.0.0 sportlemon.com
 0.0.0.0 sportlemon.live
@@ -7746,8 +7733,6 @@
 0.0.0.0 sportsonline.to
 0.0.0.0 v3.sportsonline.sx
 0.0.0.0 sportstream.tv
-0.0.0.0 sportstreamshd.com
-0.0.0.0 sportsurge.app
 0.0.0.0 sportsurge.net
 0.0.0.0 sportyhunter.com
 0.0.0.0 sportzonline.pw
@@ -7761,7 +7746,6 @@
 0.0.0.0 srrxxx.com
 0.0.0.0 srstop.link
 0.0.0.0 tracker.srv00.com
-0.0.0.0 sserial.net
 0.0.0.0 107.189.10.20.sslip.io
 0.0.0.0 ssonlinebd.com
 0.0.0.0 ssrmovies.com
@@ -7896,7 +7880,6 @@
 0.0.0.0 streamingcommunity.lol
 0.0.0.0 streamingcommunity.me
 0.0.0.0 streamingcommunity.media
-0.0.0.0 streamingcommunity.movie
 0.0.0.0 streamingcommunity.net
 0.0.0.0 streamingcommunity.nl
 0.0.0.0 streamingcommunity.one
@@ -7922,15 +7905,12 @@
 0.0.0.0 streamingcommunity.vg
 0.0.0.0 streamingcommunity.vin
 0.0.0.0 streamingcommunity.vip
-0.0.0.0 streamingcommunity.watch
 0.0.0.0 streamingcommunity.work
 0.0.0.0 streamingcommunity.xyz
 0.0.0.0 streamingdivx.ch
 0.0.0.0 streaminggratuit.cc
 0.0.0.0 streamingsenzalimiti.net
-0.0.0.0 streamingseries.cam
 0.0.0.0 streamingseries.rip
-0.0.0.0 streamingvf.casa
 0.0.0.0 streamingvf.rip
 0.0.0.0 streamit.ws
 0.0.0.0 streamiz.rip
@@ -8121,7 +8101,6 @@
 0.0.0.0 tantifilm.org
 0.0.0.0 tantifilm.ph
 0.0.0.0 tantifilm.pink
-0.0.0.0 tantifilm.pro
 0.0.0.0 tantifilm.run
 0.0.0.0 tantifilm.sbs
 0.0.0.0 tantifilm.shop
@@ -8210,7 +8189,6 @@
 0.0.0.0 the-piratebay.org
 0.0.0.0 the-potato.net
 0.0.0.0 the-underdogs.org
-0.0.0.0 the-zomb.com
 0.0.0.0 the123movies.eu
 0.0.0.0 the7sky.org
 0.0.0.0 bt1.the9.com
@@ -8379,7 +8357,6 @@
 0.0.0.0 tikmovies.com
 0.0.0.0 time2watch.in
 0.0.0.0 time2watch.tv
-0.0.0.0 time4tv.top
 0.0.0.0 timenai.com
 0.0.0.0 timepassbd.com
 0.0.0.0 timepassbd.live
@@ -8525,7 +8502,6 @@
 0.0.0.0 torrentbd.com
 0.0.0.0 torrentbd.net
 0.0.0.0 torrentbit.net
-0.0.0.0 torrentbits.ro
 0.0.0.0 torrentbox.com
 0.0.0.0 torrentbox.sx
 0.0.0.0 torrentbutler.eu
@@ -8623,7 +8599,6 @@
 0.0.0.0 torrentproxies.com
 0.0.0.0 torrentproxy.io
 0.0.0.0 torrentqq27.com
-0.0.0.0 torrentqq29.com
 0.0.0.0 torrentqq49.com
 0.0.0.0 torrentqq71.com
 0.0.0.0 torrentquest.com
@@ -8923,7 +8898,6 @@
 0.0.0.0 uira.live
 0.0.0.0 thepiratebay.uk.net
 0.0.0.0 uk-pirate-bay.com
-0.0.0.0 uk-unblock.xyz
 0.0.0.0 uknova.com
 0.0.0.0 ukpass.co
 0.0.0.0 ukpirate.click
@@ -9068,7 +9042,6 @@
 0.0.0.0 kinox.unblockit.black
 0.0.0.0 kinox.unblockit.day
 0.0.0.0 kinox.unblockit.mov
-0.0.0.0 kinox.unblockit.ong
 0.0.0.0 newalbumreleases.unblockit.bet
 0.0.0.0 newalbumreleases.unblockit.blue
 0.0.0.0 newalbumreleases.unblockit.cat
@@ -9081,7 +9054,6 @@
 0.0.0.0 newalbumreleases.unblockit.ist
 0.0.0.0 newalbumreleases.unblockit.kim
 0.0.0.0 newalbumreleases.unblockit.me
-0.0.0.0 newalbumreleases.unblockit.name
 0.0.0.0 newalbumreleases.unblockit.nz
 0.0.0.0 newalbumreleases.unblockit.onl
 0.0.0.0 newalbumreleases.unblockit.uno
@@ -9091,7 +9063,6 @@
 0.0.0.0 unblockpiratebay.net
 0.0.0.0 unblockproject.icu
 0.0.0.0 unblockproject.ink
-0.0.0.0 unblockproject.space
 0.0.0.0 ettv.unblockproject.top
 0.0.0.0 unblocksource.net
 0.0.0.0 unblockthe.net
