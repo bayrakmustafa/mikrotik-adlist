@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-! Version: 1.0.16.2
-! Last modified: 2025-06-30T06:02:11.095Z
+! Version: 1.0.16.3
+! Last modified: 2025-07-01T06:02:25.721Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 *serror*.wo.com.cn
 0.0.0.0 ac*.786ip.com
@@ -51094,7 +51094,6 @@
 0.0.0.0 rabbit.tg.meitu.com
 0.0.0.0 xiuxiu.android.dl.meitu.com
 0.0.0.0 report.meituan.com
-0.0.0.0 analytics.meituan.net
 0.0.0.0 data-sdk-uuid-log.d.meituan.net
 0.0.0.0 dreport.meituan.net
 0.0.0.0 xiuxiu.mobile.meitudata.com
