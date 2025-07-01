@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.17.87
-! Last modified: 2025-06-30T06:02:08.806Z
+! Version: 1.0.17.89
+! Last modified: 2025-07-01T06:02:23.196Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0123456789nonexistent.com
 0.0.0.0 0123movie.net
@@ -2035,6 +2035,7 @@
 0.0.0.0 mywebpages.comcast.net
 0.0.0.0 comcentral.com
 0.0.0.0 comebackdownload.com
+0.0.0.0 comicaso.space
 0.0.0.0 comicat.org
 0.0.0.0 comicextra.com
 0.0.0.0 comick.io
@@ -2073,6 +2074,8 @@
 0.0.0.0 trace.corrupt-net.org
 0.0.0.0 corsaro.red
 0.0.0.0 corsflix.net
+0.0.0.0 cosmic332.com
+0.0.0.0 cosmicscans.asia
 0.0.0.0 cosmobox.org
 0.0.0.0 cosmoneo.com
 0.0.0.0 cotapers.org
@@ -4710,6 +4713,7 @@
 0.0.0.0 kbnonlinebd.net
 0.0.0.0 kcnawatch.org
 0.0.0.0 0d.kebhana.mx
+0.0.0.0 kedimanga.com
 0.0.0.0 tracker.keepfrds.com
 0.0.0.0 keepvid.online
 0.0.0.0 keke.re
@@ -4878,6 +4882,8 @@
 0.0.0.0 kokodayo.site
 0.0.0.0 koli.services
 0.0.0.0 kolompc.com
+0.0.0.0 komiksin.net
+0.0.0.0 komikstation.org
 0.0.0.0 komodoisland.net
 0.0.0.0 koora-live.io
 0.0.0.0 kooralivs.com
@@ -5228,6 +5234,7 @@
 0.0.0.0 mangakakalot.tv
 0.0.0.0 mangamura.org
 0.0.0.0 manganelo.tv
+0.0.0.0 mangaokusana.com
 0.0.0.0 mangapark.net
 0.0.0.0 mangapoisk.io
 0.0.0.0 mangareader.tv
@@ -7500,6 +7507,7 @@
 0.0.0.0 sitosenzanome.it
 0.0.0.0 sitostreaming.com
 0.0.0.0 sittingonclouds.net
+0.0.0.0 siyahmelek.pro
 0.0.0.0 sjcrack.com
 0.0.0.0 skidrow-games.com
 0.0.0.0 skidrowcodex.net
@@ -9243,7 +9251,6 @@
 0.0.0.0 videoneat.com
 0.0.0.0 videospider.in
 0.0.0.0 videothek.cx
-0.0.0.0 videotiktok.tv
 0.0.0.0 vider.info
 0.0.0.0 vider.love
 0.0.0.0 vidhog.com
@@ -9915,7 +9922,6 @@
 0.0.0.0 tracker.zerobytes.xyz
 0.0.0.0 zerodollarmovies.com
 0.0.0.0 media.zerointernet.net
-0.0.0.0 proxy.zeronet.dev
 0.0.0.0 zeropaid.com
 0.0.0.0 zerotracker.com
 0.0.0.0 zetorrents.biz
@@ -9958,10 +9964,6 @@
 0.0.0.0 zonesega.com
 0.0.0.0 zonestreaming.info
 0.0.0.0 zonestreaming.rip
-0.0.0.0 forever-tracker.zooki.xyz
-0.0.0.0 free-tracker.zooki.xyz
-0.0.0.0 public-tracker.zooki.xyz
-0.0.0.0 tracker-v6.zooki.xyz
 0.0.0.0 zoomonlinebd.net
 0.0.0.0 zooqle.com
 0.0.0.0 zoozle.org

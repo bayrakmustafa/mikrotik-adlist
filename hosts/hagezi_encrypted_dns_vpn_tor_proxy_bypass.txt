@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
-! Version: 1.0.18.79
-! Last modified: 2025-06-30T06:02:18.149Z
+! Version: 1.0.18.81
+! Last modified: 2025-07-01T06:02:34.016Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1407,7 +1407,6 @@
 0.0.0.0 shark-pan.f5.si
 0.0.0.0 socchanpxy.f5.si
 0.0.0.0 jp1.f7b6h9.tk
-0.0.0.0 dns.f97.xyz
 0.0.0.0 idea.lab.fabriquilla25.com
 0.0.0.0 faceless.me
 0.0.0.0 proxy.facil.wtf
@@ -4295,6 +4294,7 @@
 0.0.0.0 ines.zfn.uni-bremen.de
 0.0.0.0 guh.uniall.tk
 0.0.0.0 unifiedvpn.com
+0.0.0.0 galileo.math.unipd.it
 0.0.0.0 universityproxy.net
 0.0.0.0 unkn0wngb.lol
 0.0.0.0 unknownproxy.com
@@ -4649,7 +4649,6 @@
 0.0.0.0 wobti.com
 0.0.0.0 lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 0.0.0.0 wonderland.ws
-0.0.0.0 clearweb.woodbridge.club
 0.0.0.0 woodenclock.us
 0.0.0.0 shop.woodworker.cl
 0.0.0.0 workbypass.com
@@ -4760,7 +4759,6 @@
 0.0.0.0 zalmos.com
 0.0.0.0 learning.zanity.net
 0.0.0.0 bananakun.zapto.org
-0.0.0.0 hudzonlzzzzzhj.zavoj.ch
 0.0.0.0 tststststststststststststststststststststs.zavoj.ch
 0.0.0.0 xyz.zaylovesparker.xyz
 0.0.0.0 zburger.top
