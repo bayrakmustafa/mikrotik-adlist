@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.54
-! Last modified: 2025-06-30T06:02:13.738Z
+! Version: 1.0.17.56
+! Last modified: 2025-07-02T06:02:24.089Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 1bmo-reactivemyaccount0.com
@@ -142,7 +142,6 @@
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 blackoutarchertender.com
-0.0.0.0 blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
 0.0.0.0 bltskins.com
@@ -160,6 +159,7 @@
 0.0.0.0 buddhakind.com
 0.0.0.0 budm.shop
 0.0.0.0 buylikes.se
+0.0.0.0 buzzdeal.com
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
 0.0.0.0 by-emmamuller.de
@@ -394,7 +394,6 @@
 0.0.0.0 forumdetran.co
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 freedom.service-update3.com
-0.0.0.0 frest.info
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 fridaylocalmanager.duckdns.org
@@ -454,7 +453,6 @@
 0.0.0.0 happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 headsets4business.co.uk
-0.0.0.0 help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 helpnanacenter.helpscoutdocs.com
@@ -540,6 +538,7 @@
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
 0.0.0.0 j-natural.com
+0.0.0.0 jagkart.com
 0.0.0.0 januashop.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
@@ -648,7 +647,6 @@
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 mullvaad.net
 0.0.0.0 museuw.com
-0.0.0.0 musk-project.com
 0.0.0.0 muskusa.com
 0.0.0.0 mybestautologin567.com
 0.0.0.0 myblogshop.top
@@ -668,6 +666,7 @@
 0.0.0.0 navi10.com
 0.0.0.0 navi10.ru
 0.0.0.0 navi100.com
+0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
 0.0.0.0 navi18.com
@@ -698,7 +697,6 @@
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
-0.0.0.0 navi48.com
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
@@ -866,7 +864,6 @@
 0.0.0.0 punyauang.xyz
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
-0.0.0.0 queenscattery.com
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
 0.0.0.0 rastreiobrasil.co
@@ -917,7 +914,6 @@
 0.0.0.0 secrity2redline.com
 0.0.0.0 security-meta.pages.app.br
 0.0.0.0 sedark.com
-0.0.0.0 sehaleservices.com
 0.0.0.0 sellfox.com
 0.0.0.0 sentees.com
 0.0.0.0 serengetidiscount.com
@@ -938,7 +934,6 @@
 0.0.0.0 sigmaoffers.com
 0.0.0.0 signalgroup.site
 0.0.0.0 signpify.com
-0.0.0.0 silverlanetrading.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
@@ -950,12 +945,10 @@
 0.0.0.0 smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 software19797.blogspot.com
-0.0.0.0 softzspot.com
 0.0.0.0 solution7energieqc.com
 0.0.0.0 somethingapparel.com
 0.0.0.0 souhoney.com
 0.0.0.0 spark.kindpickle.info
-0.0.0.0 sport-specialoffers.shop
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 sportsbrooks.com
 0.0.0.0 sportswearfanatics.com
@@ -1018,7 +1011,6 @@
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
 0.0.0.0 tencheckit.org
-0.0.0.0 teneta.add-group.site
 0.0.0.0 teodoroautopecas.com
 0.0.0.0 tesla-online.net
 0.0.0.0 teslafond.io
@@ -1026,6 +1018,7 @@
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
+0.0.0.0 thegeekgifts.com
 0.0.0.0 thehappywood.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 thenorthfacegreece.com
@@ -1260,7 +1253,6 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
@@ -1308,7 +1300,6 @@
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 zerowasteinitiative.com
-0.0.0.0 zillify.cfd
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com
 0.0.0.0 zolrqw.palatlaldate.com
