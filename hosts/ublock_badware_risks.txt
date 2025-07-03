@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.18.29
-! Last modified: 2025-06-30T06:02:18.058Z
+! Version: 1.0.18.32
+! Last modified: 2025-07-03T06:02:16.565Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -541,6 +541,11 @@
 0.0.0.0 hostingfile.live
 0.0.0.0 linkofile.click
 0.0.0.0 modesoft.org
+0.0.0.0 mysoftiloria.shop
+0.0.0.0 yeahmylol.sbs
+0.0.0.0 tostatess.icu
+0.0.0.0 anysoftdownload.com
+0.0.0.0 softdownloadgithub.icu
 0.0.0.0 securefilelink.info
 0.0.0.0 mariads.cfd
 0.0.0.0 theannoyingsite.com
@@ -628,6 +633,7 @@
 0.0.0.0 lcskincarecenter.com
 0.0.0.0 clasm.live
 0.0.0.0 trustwallct.cc
+0.0.0.0 tnm-museum.world
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 coup-ling-dm.net

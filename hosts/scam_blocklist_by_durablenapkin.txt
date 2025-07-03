@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.54
-! Last modified: 2025-06-30T06:02:13.738Z
+! Version: 1.0.17.57
+! Last modified: 2025-07-03T06:02:11.919Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 1bmo-reactivemyaccount0.com
@@ -63,6 +63,7 @@
 0.0.0.0 amorpulse.com
 0.0.0.0 amznshirts.com
 0.0.0.0 an1.is
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
@@ -394,7 +395,6 @@
 0.0.0.0 forumdetran.co
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 freedom.service-update3.com
-0.0.0.0 frest.info
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 fridaylocalmanager.duckdns.org
@@ -540,6 +540,7 @@
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
 0.0.0.0 j-natural.com
+0.0.0.0 jagkart.com
 0.0.0.0 januashop.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
@@ -602,6 +603,7 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucchesedeal.store
 0.0.0.0 luccheseoutlet.online
+0.0.0.0 lucidtiger.com
 0.0.0.0 lucysstyle.com
 0.0.0.0 lumustore.top
 0.0.0.0 luxsgear.com
@@ -648,7 +650,6 @@
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 mullvaad.net
 0.0.0.0 museuw.com
-0.0.0.0 musk-project.com
 0.0.0.0 muskusa.com
 0.0.0.0 mybestautologin567.com
 0.0.0.0 myblogshop.top
@@ -668,6 +669,7 @@
 0.0.0.0 navi10.com
 0.0.0.0 navi10.ru
 0.0.0.0 navi100.com
+0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
 0.0.0.0 navi18.com
@@ -700,6 +702,7 @@
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi5.com
+0.0.0.0 navi50.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
 0.0.0.0 navi55.com
@@ -866,7 +869,6 @@
 0.0.0.0 punyauang.xyz
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
-0.0.0.0 queenscattery.com
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
 0.0.0.0 rastreiobrasil.co
@@ -917,7 +919,6 @@
 0.0.0.0 secrity2redline.com
 0.0.0.0 security-meta.pages.app.br
 0.0.0.0 sedark.com
-0.0.0.0 sehaleservices.com
 0.0.0.0 sellfox.com
 0.0.0.0 sentees.com
 0.0.0.0 serengetidiscount.com
@@ -938,7 +939,6 @@
 0.0.0.0 sigmaoffers.com
 0.0.0.0 signalgroup.site
 0.0.0.0 signpify.com
-0.0.0.0 silverlanetrading.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
@@ -947,7 +947,6 @@
 0.0.0.0 smartokids.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 smartproduct.site
-0.0.0.0 smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 software19797.blogspot.com
 0.0.0.0 softzspot.com
@@ -1026,6 +1025,7 @@
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
+0.0.0.0 thegeekgifts.com
 0.0.0.0 thehappywood.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 thenorthfacegreece.com
@@ -1260,7 +1260,6 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
@@ -1308,7 +1307,6 @@
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 zerowasteinitiative.com
-0.0.0.0 zillify.cfd
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com
 0.0.0.0 zolrqw.palatlaldate.com
